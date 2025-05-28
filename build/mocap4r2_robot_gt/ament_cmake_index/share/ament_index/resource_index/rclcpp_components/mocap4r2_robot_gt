@@ -1,0 +1,2 @@
+mocap4r2_robot_gt::GTNode;lib/libgt_component.so
+mocap4r2_robot_gt::SetGTNode;lib/libset_gt_component.so

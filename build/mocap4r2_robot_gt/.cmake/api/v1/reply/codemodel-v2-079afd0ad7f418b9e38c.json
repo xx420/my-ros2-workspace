@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3ed3feb16a9f1392fbce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mocap4r2_robot_gt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gt_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gt_component-124da3c83424a15173fc.json",
+					"name" : "gt_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gt_program::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gt_program-ddd5339655d7100c39eb.json",
+					"name" : "gt_program",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_robot_gt_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_robot_gt_uninstall-e286149847780552d31c.json",
+					"name" : "mocap4r2_robot_gt_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "set_gt_cli::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-set_gt_cli-da266aecbf7dd19fdbd3.json",
+					"name" : "set_gt_cli",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "set_gt_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-set_gt_component-bc8b49ef7a1fd2ee9e95.json",
+					"name" : "set_gt_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ec81d34330831ff9d259.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/mocap4r2_robot_gt",
+		"source" : "/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_robot_gt/mocap4r2_robot_gt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

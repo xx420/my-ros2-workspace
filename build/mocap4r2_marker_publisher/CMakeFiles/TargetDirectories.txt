@@ -1,0 +1,10 @@
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/uninstall.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/mocap4r2_marker_publisher_uninstall.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/mocap4r2_marker_publisher.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/test.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/edit_cache.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/rebuild_cache.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/list_install_components.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/install.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/install/local.dir
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/CMakeFiles/install/strip.dir

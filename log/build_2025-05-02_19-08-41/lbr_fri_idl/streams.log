@@ -1,0 +1,26 @@
+[0.068s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_fri_idl': CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk:/home/rosuser/ros2_ws/install/med7_moveit_config:/home/rosuser/ros2_ws/install/med14_moveit_config:/home/rosuser/ros2_ws/install/lbr_fri_ros2_stack:/home/rosuser/ros2_ws/install/lbr_demos_cpp:/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_moveit_cpp:/home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/iiwa7_moveit_config:/home/rosuser/ros2_ws/install/iiwa14_moveit_config:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/impedance_controller:/home/rosuser/ros2_ws/install/iiwa_moveit2:/home/rosuser/ros2_ws/install/iiwa_hardware:/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib:/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/impedance_controller/lib:/home/rosuser/ros2_ws/install/iiwa_moveit2/lib:/home/rosuser/ros2_ws/install/iiwa_hardware/lib:/home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_fri_idl -- -j4 -l4
+[0.209s] [ 10%] Built target lbr_fri_idl__rosidl_generator_c
+[0.216s] [ 11%] Built target lbr_fri_idl__cpp
+[0.216s] [ 11%] Built target ament_cmake_python_symlink_lbr_fri_idl
+[0.220s] [ 14%] Built target gtest_main
+[0.251s] [ 17%] Built target gtest
+[0.261s] [ 27%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_cpp
+[0.261s] [ 37%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_c
+[0.266s] [ 47%] Built target lbr_fri_idl__rosidl_typesupport_cpp
+[0.291s] [ 57%] Built target lbr_fri_idl__rosidl_typesupport_introspection_c
+[0.291s] [ 68%] Built target lbr_fri_idl__rosidl_typesupport_c
+[0.299s] [ 78%] Built target lbr_fri_idl__rosidl_typesupport_introspection_cpp
+[0.344s] [ 81%] Built target lbr_fri_idl_test_command_interfaces
+[0.344s] [ 81%] Built target lbr_fri_idl
+[0.353s] [ 82%] Built target lbr_fri_idl__py
+[0.385s] [ 91%] Built target lbr_fri_idl__rosidl_generator_py
+[0.419s] [ 94%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_c__pyext
+[0.420s] [ 97%] Built target lbr_fri_idl__rosidl_typesupport_introspection_c__pyext
+[0.424s] [100%] Built target lbr_fri_idl__rosidl_typesupport_c__pyext
+[0.653s] running egg_info
+[0.654s] writing lbr_fri_idl.egg-info/PKG-INFO
+[0.654s] writing dependency_links to lbr_fri_idl.egg-info/dependency_links.txt
+[0.654s] writing top-level names to lbr_fri_idl.egg-info/top_level.txt
+[0.657s] reading manifest file 'lbr_fri_idl.egg-info/SOURCES.txt'
+[0.658s] writing manifest file 'lbr_fri_idl.egg-info/SOURCES.txt'
+[0.692s] [100%] Built target ament_cmake_python_build_lbr_fri_idl_egg

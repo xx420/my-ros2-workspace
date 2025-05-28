@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mocap4r2_robot_gt_msgs/srv/SetGTOrigin.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module mocap4r2_robot_gt_msgs {
+  module srv {
+    struct SetGTOrigin_Request {
+      @default (value=FALSE)
+      boolean current_is_origin;
+
+      geometry_msgs::msg::Pose origin_pose;
+    };
+    struct SetGTOrigin_Response {
+      boolean success;
+
+      string error_msg;
+    };
+  };
+};

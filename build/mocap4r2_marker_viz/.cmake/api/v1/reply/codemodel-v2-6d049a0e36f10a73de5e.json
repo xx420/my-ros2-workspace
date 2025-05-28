@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e75c917fe7b437001aa1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mocap4r2_marker_viz",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz-c89c12adc67af2b24cd4.json",
+					"name" : "mocap4r2_marker_viz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_NODE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_NODE-c8bdd3c1f9c2add9fd8b.json",
+					"name" : "mocap4r2_marker_viz_NODE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_uninstall-7d9f6688815cb2cb4356.json",
+					"name" : "mocap4r2_marker_viz_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c4e2dda8552df137b020.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/mocap4r2_marker_viz",
+		"source" : "/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_marker_viz/mocap4r2_marker_viz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

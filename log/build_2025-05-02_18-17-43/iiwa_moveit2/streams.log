@@ -1,0 +1,9 @@
+[0.164s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+[4.019s] gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'libservo_controller_input.so'.  Stop.
+[4.020s] gmake[1]: *** [CMakeFiles/Makefile2:141: CMakeFiles/servo_controller_input.dir/all] Error 2
+[4.020s] gmake[1]: *** Waiting for unfinished jobs....
+[8.744s] gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'servo_node'.  Stop.
+[8.744s] gmake[1]: *** [CMakeFiles/Makefile2:193: CMakeFiles/servo_node.dir/all] Error 2
+[8.866s] gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'pose_tracking_servo_node'.  Stop.
+[8.867s] gmake[1]: *** [CMakeFiles/Makefile2:167: CMakeFiles/pose_tracking_servo_node.dir/all] Error 2
+[8.867s] gmake: *** [Makefile:146: all] Error 2

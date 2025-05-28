@@ -1,0 +1,91 @@
+[0.048s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_hardware': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_hardware -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_hardware
+[0.222s] -- The C compiler identification is GNU 11.4.0
+[0.378s] -- The CXX compiler identification is GNU 11.4.0
+[0.398s] -- Detecting C compiler ABI info
+[0.599s] -- Detecting C compiler ABI info - done
+[0.627s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.627s] -- Detecting C compile features
+[0.627s] -- Detecting C compile features - done
+[0.634s] -- Detecting CXX compiler ABI info
+[0.854s] -- Detecting CXX compiler ABI info - done
+[0.870s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.871s] -- Detecting CXX compile features
+[0.871s] -- Detecting CXX compile features - done
+[0.881s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.292s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.395s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.449s] -- Found hardware_interface: 2.49.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[1.664s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.681s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.709s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.735s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.776s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.192s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.198s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.236s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.334s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.346s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.391s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.399s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.424s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.452s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.476s] -- Looking for pthread.h
+[2.677s] -- Looking for pthread.h - found
+[2.677s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.884s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.884s] -- Found Threads: TRUE  
+[3.073s] -- Found ament_cmake_gtest: 1.3.11 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[3.098s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.328s] -- Configuring done
+[3.547s] -- Generating done
+[3.564s] -- Build files have been written to: /home/rosuser/ros2_ws/build/iiwa_hardware
+[3.598s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_hardware' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_hardware -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_hardware
+[3.598s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_hardware': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_hardware -- -j4 -l4
+[3.720s] [  6%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/src/IiwaFRIHardwareInterface.cpp.o[0m
+[11.316s] [ 13%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/client_lbr/friLBRCommand.cpp.o[0m
+[11.523s] [ 20%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/client_lbr/friLBRState.cpp.o[0m
+[11.726s] [ 26%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/connection/friUdpConnection.cpp.o[0m
+[12.190s] [ 33%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/protobuf/friCommandMessageEncoder.cpp.o[0m
+[12.260s] [ 40%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/protobuf/friMonitoringMessageDecoder.cpp.o[0m
+[12.326s] [ 46%] [32mBuilding C object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/protobuf/pb_frimessages_callbacks.c.o[0m
+[12.404s] [ 53%] [32mBuilding C object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/protobuf_gen/FRIMessages.pb.c.o[0m
+[12.453s] [ 60%] [32mBuilding C object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/nanopb-0.2.8/pb_decode.c.o[0m
+[12.555s] [ 66%] [32mBuilding C object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/nanopb-0.2.8/pb_encode.c.o[0m
+[12.636s] [ 73%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/client_trafo/friTransformationClient.cpp.o[0m
+[12.891s] [ 80%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/src/IRDFClient.cpp.o[0m
+[15.122s] [ 86%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/client_lbr/friLBRClient.cpp.o[0m
+[15.332s] [ 93%] [32mBuilding CXX object CMakeFiles/iiwa_hardware.dir/external/libFRI/src/base/friClientApplication.cpp.o[0m
+[15.528s] [100%] [32m[1mLinking CXX shared library libiiwa_hardware.so[0m
+[15.796s] [100%] Built target iiwa_hardware
+[15.813s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_hardware' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_hardware -- -j4 -l4
+[15.815s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_hardware': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_hardware
+[15.823s] -- Install configuration: ""
+[15.824s] -- Execute custom install script
+[15.825s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware//iiwa_hardware_interface_plugin.xml
+[15.843s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/lib/libiiwa_hardware.so
+[15.855s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/include/iiwa_hardware/IRDFClient.h
+[15.866s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/include/iiwa_hardware/IiwaFRIHardwareInterface.hpp
+[15.877s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/include/iiwa_hardware/low_pass_filter.h
+[15.887s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/include/iiwa_hardware/visibility_control.h
+[15.899s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/library_path.sh
+[15.910s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/library_path.dsv
+[15.921s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/ament_index/resource_index/package_run_dependencies/iiwa_hardware
+[15.935s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/ament_index/resource_index/parent_prefix_path/iiwa_hardware
+[15.951s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/ament_prefix_path.sh
+[15.961s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/ament_prefix_path.dsv
+[15.971s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/path.sh
+[15.981s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/environment/path.dsv
+[15.992s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/local_setup.bash
+[16.003s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/local_setup.sh
+[16.018s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/local_setup.zsh
+[16.029s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/local_setup.dsv
+[16.041s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/package.dsv
+[16.051s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/ament_index/resource_index/packages/iiwa_hardware
+[16.062s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/iiwa_hardware
+[16.073s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/cmake/ament_cmake_export_include_directories-extras.cmake
+[16.085s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/cmake/ament_cmake_export_libraries-extras.cmake
+[16.096s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/cmake/ament_cmake_export_dependencies-extras.cmake
+[16.107s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/cmake/iiwa_hardwareConfig.cmake
+[16.118s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/cmake/iiwa_hardwareConfig-version.cmake
+[16.128s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_hardware/share/iiwa_hardware/package.xml
+[16.146s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_hardware' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/iiwa_bringup:/home/rosuser/ros2_ws/install/iiwa_description:/opt/ros/humble GAZEBO_MODEL_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes GZ_SIM_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes IGN_GAZEBO_RESOURCE_PATH=/home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_hardware

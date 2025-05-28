@@ -1,0 +1,96 @@
+[0.028s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_ros2_control': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_ros2_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_ros2_control
+[0.101s] -- The C compiler identification is GNU 11.4.0
+[0.175s] -- The CXX compiler identification is GNU 11.4.0
+[0.183s] -- Detecting C compiler ABI info
+[0.272s] -- Detecting C compiler ABI info - done
+[0.282s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.282s] -- Detecting C compile features
+[0.284s] -- Detecting C compile features - done
+[0.288s] -- Detecting CXX compiler ABI info
+[0.391s] -- Detecting CXX compiler ABI info - done
+[0.404s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.404s] -- Detecting CXX compile features
+[0.405s] -- Detecting CXX compile features - done
+[0.409s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.616s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.708s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.763s] -- Found controller_interface: 2.49.0 (/opt/ros/humble/share/controller_interface/cmake)
+[0.822s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.830s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.843s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.862s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.887s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.191s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.195s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.233s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.298s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.301s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.322s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.327s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.340s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.354s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.367s] -- Looking for pthread.h
+[1.457s] -- Looking for pthread.h - found
+[1.457s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.546s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.548s] -- Found Threads: TRUE  
+[1.625s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.633s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.667s] -- Found kinematics_interface: 0.3.0 (/opt/ros/humble/share/kinematics_interface/cmake)
+[1.678s] -- Found lbr_fri_idl: 1.5.0 (/home/rosuser/ros2_ws/install/lbr_fri_idl/share/lbr_fri_idl/cmake)
+[1.696s] -- Found lbr_fri_ros2: 2.2.1 (/home/rosuser/ros2_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake)
+[1.720s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.860s] -- Configuring done
+[1.910s] -- Generating done
+[1.917s] -- Build files have been written to: /home/rosuser/ros2_ws/build/lbr_ros2_control
+[1.934s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_ros2_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_ros2_control
+[1.934s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_ros2_control': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_ros2_control -- -j4 -l4
+[1.999s] [ 12%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/admittance_controller.cpp.o[0m
+[2.005s] [ 25%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/lbr_joint_position_command_controller.cpp.o[0m
+[3.035s] [ 37%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/lbr_wrench_command_controller.cpp.o[0m
+[4.061s] [ 50%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/lbr_torque_command_controller.cpp.o[0m
+[23.686s] [ 62%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/system_interface.cpp.o[0m
+[33.719s] [ 87%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/twist_controller.cpp.o[0m
+[33.719s] [ 87%] [32mBuilding CXX object CMakeFiles/lbr_ros2_control.dir/src/controllers/lbr_state_broadcaster.cpp.o[0m
+[50.064s] [100%] [32m[1mLinking CXX shared library liblbr_ros2_control.so[0m
+[50.501s] [100%] Built target lbr_ros2_control
+[50.516s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_ros2_control -- -j4 -l4
+[50.519s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_ros2_control': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_ros2_control
+[50.529s] -- Install configuration: "Release"
+[50.529s] -- Execute custom install script
+[50.530s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/plugin_description_files/controllers.xml
+[50.542s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/plugin_description_files/system_interface.xml
+[50.554s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/library_path.sh
+[50.565s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/library_path.dsv
+[50.576s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/admittance_controller.hpp
+[50.586s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/lbr_joint_position_command_controller.hpp
+[50.597s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/lbr_state_broadcaster.hpp
+[50.608s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/lbr_torque_command_controller.hpp
+[50.619s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/lbr_wrench_command_controller.hpp
+[50.629s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/controllers/twist_controller.hpp
+[50.640s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/system_interface.hpp
+[50.651s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/include/lbr_ros2_control/system_interface_type_values.hpp
+[50.662s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/ament_index/resource_index/package_run_dependencies/lbr_ros2_control
+[50.673s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/ament_index/resource_index/parent_prefix_path/lbr_ros2_control
+[50.684s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/ament_prefix_path.sh
+[50.694s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/ament_prefix_path.dsv
+[50.707s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/path.sh
+[50.719s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/environment/path.dsv
+[50.731s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/local_setup.bash
+[50.745s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/local_setup.sh
+[50.756s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/local_setup.zsh
+[50.767s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/local_setup.dsv
+[50.778s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/package.dsv
+[50.790s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/ament_index/resource_index/packages/lbr_ros2_control
+[50.802s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/ament_index/resource_index/controller_interface__pluginlib__plugin/lbr_ros2_control
+[50.813s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/lbr_ros2_control
+[50.824s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/ament_cmake_export_targets-extras.cmake
+[50.836s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/ament_cmake_export_dependencies-extras.cmake
+[50.847s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/lbr_ros2_controlConfig.cmake
+[50.859s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/lbr_ros2_controlConfig-version.cmake
+[50.870s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/package.xml
+[50.881s] -- Installing: /home/rosuser/ros2_ws/install/lbr_ros2_control/lib/lbr_ros2_control/liblbr_ros2_control.so
+[50.886s] -- Set runtime path of "/home/rosuser/ros2_ws/install/lbr_ros2_control/lib/lbr_ros2_control/liblbr_ros2_control.so" to ""
+[50.886s] -- Installing: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/lbr_ros2_control_exportExport.cmake
+[50.886s] -- Installing: /home/rosuser/ros2_ws/install/lbr_ros2_control/share/lbr_ros2_control/cmake/lbr_ros2_control_exportExport-release.cmake
+[50.889s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_ros2_control

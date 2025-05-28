@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/install/rqt_mocap4r2_control/lib/rqt_mocap4r2_control/librqt_mocap4r2_control.so

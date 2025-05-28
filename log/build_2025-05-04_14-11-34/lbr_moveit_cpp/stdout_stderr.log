@@ -1,0 +1,3 @@
+gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_move_group_interface.so.2.5.8', needed by 'hello_moveit'.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/hello_moveit.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

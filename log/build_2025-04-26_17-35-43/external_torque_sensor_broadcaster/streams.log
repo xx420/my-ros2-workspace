@@ -1,0 +1,34 @@
+[0.201s] Invoking command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster -- -j4 -l4
+[3.235s] [35m[1mConsolidate compiler generated dependencies of target external_torque_sensor_broadcaster[0m
+[4.616s] [100%] Built target external_torque_sensor_broadcaster
+[4.632s] Invoked command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster -- -j4 -l4
+[4.717s] Invoking command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster
+[4.728s] -- Install configuration: ""
+[4.762s] -- Execute custom install script
+[4.776s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster//external_torque_sensor_broadcaster.xml
+[4.840s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/lib/libexternal_torque_sensor_broadcaster.so
+[4.957s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/include/external_torque_sensor_broadcaster/external_torque_sensor.hpp
+[4.990s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/include/external_torque_sensor_broadcaster/external_torque_sensor_broadcaster.hpp
+[4.991s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/include/external_torque_sensor_broadcaster/visibility_control.h
+[4.991s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/library_path.sh
+[4.991s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/library_path.dsv
+[4.992s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/ament_index/resource_index/package_run_dependencies/external_torque_sensor_broadcaster
+[4.992s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/ament_index/resource_index/parent_prefix_path/external_torque_sensor_broadcaster
+[4.993s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/ament_prefix_path.sh
+[4.993s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/ament_prefix_path.dsv
+[4.993s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/path.sh
+[4.994s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/environment/path.dsv
+[4.994s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/local_setup.bash
+[4.994s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/local_setup.sh
+[4.995s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/local_setup.zsh
+[4.995s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/local_setup.dsv
+[4.995s] -- Symlinking: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/package.dsv
+[5.007s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/ament_index/resource_index/packages/external_torque_sensor_broadcaster
+[5.007s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/ament_index/resource_index/controller_interface__pluginlib__plugin/external_torque_sensor_broadcaster
+[5.008s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.008s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/cmake/ament_cmake_export_libraries-extras.cmake
+[5.009s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.009s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/cmake/external_torque_sensor_broadcasterConfig.cmake
+[5.010s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/cmake/external_torque_sensor_broadcasterConfig-version.cmake
+[5.010s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/external_torque_sensor_broadcaster/share/external_torque_sensor_broadcaster/package.xml
+[5.489s] Invoked command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster

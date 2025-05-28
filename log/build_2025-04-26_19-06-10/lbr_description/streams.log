@@ -1,0 +1,45 @@
+[0.041s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_description -- -j4 -l4
+[0.214s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_description -- -j4 -l4
+[0.215s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_description
+[0.240s] -- Install configuration: ""
+[0.240s] -- Execute custom install script
+[0.241s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/gazebo/lbr_gazebo.xacro
+[0.241s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_0.stl
+[0.241s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_1.stl
+[0.241s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_2.stl
+[0.241s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_3.stl
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_4.stl
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_5.stl
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_6.stl
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_7.stl
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_0.dae
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_1.dae
+[0.243s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_2.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_3.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_4.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_5.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_6.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_7.dae
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_controllers.yaml
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_system_config.yaml
+[0.244s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_system_interface.xacro
+[0.245s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14.xacro
+[0.245s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14_description.xacro
+[0.245s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/joint_limits.yaml
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/lbr_description.dsv
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/package_run_dependencies/lbr_description
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/parent_prefix_path/lbr_description
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/ament_prefix_path.sh
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/ament_prefix_path.dsv
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/path.sh
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/path.dsv
+[0.246s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.bash
+[0.247s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.sh
+[0.247s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.zsh
+[0.247s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.dsv
+[0.247s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/package.dsv
+[0.248s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/packages/lbr_description
+[0.248s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig.cmake
+[0.249s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig-version.cmake
+[0.249s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/package.xml
+[0.290s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_description

@@ -1,0 +1,56 @@
+running develop
+Removing /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli.egg-link (link to .)
+running egg_info
+writing ../../../build/mocap4r2cli/mocap4r2cli.egg-info/PKG-INFO
+writing dependency_links to ../../../build/mocap4r2cli/mocap4r2cli.egg-info/dependency_links.txt
+writing entry points to ../../../build/mocap4r2cli/mocap4r2cli.egg-info/entry_points.txt
+writing requirements to ../../../build/mocap4r2cli/mocap4r2cli.egg-info/requires.txt
+writing top-level names to ../../../build/mocap4r2cli/mocap4r2cli.egg-info/top_level.txt
+reading manifest file '../../../build/mocap4r2cli/mocap4r2cli.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../build/mocap4r2cli/mocap4r2cli.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli
+copying mocap4r2cli/__init__.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/api
+copying mocap4r2cli/api/__init__.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/api
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb
+copying mocap4r2cli/verb/__init__.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb
+copying mocap4r2cli/verb/start.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb
+copying mocap4r2cli/verb/status.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb
+copying mocap4r2cli/verb/stop.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb
+creating /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/command
+copying mocap4r2cli/command/__init__.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/command
+copying mocap4r2cli/command/mocap4r2.py -> /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/command
+running install
+running install_lib
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/__init__.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/api
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/api/__init__.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/api
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb/__init__.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb/start.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb/status.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/verb/stop.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/command
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/command/__init__.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/command
+copying /home/rosuser/ros2_ws/build/mocap4r2cli/build/lib/mocap4r2cli/command/mocap4r2.py -> /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/command
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/api/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb/start.py to start.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb/status.py to status.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/verb/stop.py to stop.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/command/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli/command/mocap4r2.py to mocap4r2.cpython-310.pyc
+running install_data
+copying package.xml -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/mocap4r2cli
+copying resource/mocap4r2cli -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index/packages
+running install_egg_info
+Copying ../../../build/mocap4r2cli/mocap4r2cli.egg-info to /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli-0.0.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rosuser/ros2_ws/build/mocap4r2cli/install.log'

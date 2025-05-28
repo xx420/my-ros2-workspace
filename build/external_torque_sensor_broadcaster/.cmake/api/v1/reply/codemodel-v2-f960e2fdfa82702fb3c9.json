@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-54af9ab0f4bc7bd50d2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "external_torque_sensor_broadcaster",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "external_torque_sensor_broadcaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-external_torque_sensor_broadcaster-a2f173d69ca26b953165.json",
+					"name" : "external_torque_sensor_broadcaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "external_torque_sensor_broadcaster_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-external_torque_sensor_broadcaster_uninstall-c02f9130ca8e1e78f874.json",
+					"name" : "external_torque_sensor_broadcaster_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3a3824bbe004b1669389.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster",
+		"source" : "/home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_controllers/external_torque_sensor_broadcaster"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

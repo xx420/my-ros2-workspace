@@ -1,0 +1,6 @@
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_moveit2
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_moveit2
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2

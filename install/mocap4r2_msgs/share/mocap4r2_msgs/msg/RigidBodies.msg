@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/mocap_msgs/msg/RigidBodies.msg

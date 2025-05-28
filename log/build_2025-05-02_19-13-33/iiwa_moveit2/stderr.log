@@ -1,0 +1,8 @@
+gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'libservo_controller_input.so'.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:141: CMakeFiles/servo_controller_input.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'pose_tracking_servo_node'.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:167: CMakeFiles/pose_tracking_servo_node.dir/all] Error 2
+gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_servo_lib.so.2.5.8', needed by 'servo_node'.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:193: CMakeFiles/servo_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

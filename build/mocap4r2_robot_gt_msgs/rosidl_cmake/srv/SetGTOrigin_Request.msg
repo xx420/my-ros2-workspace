@@ -1,0 +1,2 @@
+bool current_is_origin false
+geometry_msgs/Pose origin_pose

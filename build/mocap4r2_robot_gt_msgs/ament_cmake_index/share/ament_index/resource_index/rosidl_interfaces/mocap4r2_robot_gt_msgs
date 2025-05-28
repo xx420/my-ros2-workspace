@@ -1,0 +1,4 @@
+srv/SetGTOrigin.idl
+srv/SetGTOrigin.srv
+srv/SetGTOrigin_Request.msg
+srv/SetGTOrigin_Response.msg

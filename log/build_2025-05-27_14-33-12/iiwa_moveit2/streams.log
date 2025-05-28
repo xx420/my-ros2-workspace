@@ -1,0 +1,76 @@
+[0.305s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_moveit2 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_moveit2
+[0.545s] -- Found moveit_common: 2.5.9 (/opt/ros/humble/share/moveit_common/cmake)
+[0.613s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.014s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.395s] [0miiwa_moveit2: You did not request a specific build type: Choosing 'Release' for maximum performance[0m
+[1.396s] -- Found control_msgs: 4.8.0 (/opt/ros/humble/share/control_msgs/cmake)
+[1.462s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.468s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.478s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.499s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.523s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.497s] -- Found moveit_core: 2.5.9 (/opt/ros/humble/share/moveit_core/cmake)
+[4.870s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[6.129s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[6.279s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[6.286s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.468s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.929s] -- Found rclcpp_lifecycle: 16.0.12 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[7.152s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[7.964s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[8.053s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[15.743s] -- Found moveit_servo: 2.5.9 (/opt/ros/humble/share/moveit_servo/cmake)
+[16.493s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[18.248s] -- Found ament_cmake_gtest: 1.3.11 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[18.248s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[18.345s] -- Added test 'copyright' to check source files copyright and LICENSE
+[18.381s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[18.382s] -- Configured cppcheck include dirs: 
+[18.382s] -- Configured cppcheck exclude dirs and/or files: 
+[18.384s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[18.384s] -- Configured cpplint exclude dirs and/or files: 
+[18.385s] -- Added test 'lint_cmake' to check CMake code style
+[18.387s] -- Added test 'uncrustify' to check C / C++ code style
+[18.387s] -- Configured uncrustify additional arguments: 
+[18.387s] -- Added test 'xmllint' to check XML markup files
+[18.393s] -- Configuring done
+[21.130s] -- Generating done
+[21.155s] -- Build files have been written to: /home/rosuser/ros2_ws/build/iiwa_moveit2
+[21.170s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_moveit2 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_moveit2
+[21.172s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+[21.324s] [35m[1mConsolidate compiler generated dependencies of target servo_node[0m
+[21.374s] [35m[1mConsolidate compiler generated dependencies of target servo_controller_input[0m
+[21.465s] [35m[1mConsolidate compiler generated dependencies of target pose_tracking_servo_node[0m
+[21.919s] [  0%] Built target servo_controller_input
+[24.625s] [  0%] Built target servo_node
+[24.696s] [  0%] Built target pose_tracking_servo_node
+[24.715s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+[24.743s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2
+[24.759s] -- Install configuration: "Release"
+[24.759s] -- Execute custom install script
+[24.789s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/iiwa_moveit2/pose_tracking_servo_node
+[24.789s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/iiwa_moveit2/servo_node
+[24.838s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/library_path.sh
+[24.838s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/library_path.dsv
+[24.839s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/package_run_dependencies/iiwa_moveit2
+[24.840s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/parent_prefix_path/iiwa_moveit2
+[24.841s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/ament_prefix_path.sh
+[24.841s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/ament_prefix_path.dsv
+[24.842s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/path.sh
+[24.842s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/path.dsv
+[24.843s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.bash
+[24.844s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.sh
+[24.884s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.zsh
+[24.887s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.dsv
+[24.887s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/package.dsv
+[24.933s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/packages/iiwa_moveit2
+[24.951s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/rclcpp_components/iiwa_moveit2
+[24.967s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/ament_cmake_export_targets-extras.cmake
+[24.992s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/ament_cmake_export_dependencies-extras.cmake
+[25.017s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/iiwa_moveit2Config.cmake
+[25.042s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/iiwa_moveit2Config-version.cmake
+[25.084s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/package.xml
+[25.179s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/libservo_controller_input.so
+[25.224s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/export_iiwa_moveit2Export.cmake
+[25.224s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/export_iiwa_moveit2Export-release.cmake
+[25.228s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2

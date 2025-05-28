@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating mocap4r2cli.egg-info
+writing mocap4r2cli.egg-info/PKG-INFO
+writing dependency_links to mocap4r2cli.egg-info/dependency_links.txt
+writing entry points to mocap4r2cli.egg-info/entry_points.txt
+writing requirements to mocap4r2cli.egg-info/requires.txt
+writing top-level names to mocap4r2cli.egg-info/top_level.txt
+writing manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+reading manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+writing manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli.egg-link (link to .)
+
+Installed /home/rosuser/ros2_ws/build/mocap4r2cli
+running symlink_data
+symbolically linking /home/rosuser/ros2_ws/build/mocap4r2cli/package.xml -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/mocap4r2cli
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index
+creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index/packages
+symbolically linking /home/rosuser/ros2_ws/build/mocap4r2cli/resource/mocap4r2cli -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index/packages

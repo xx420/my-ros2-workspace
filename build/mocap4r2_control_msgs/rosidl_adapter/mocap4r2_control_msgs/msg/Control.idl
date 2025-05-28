@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mocap4r2_control_msgs/msg/Control.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module mocap4r2_control_msgs {
+  module msg {
+    module Control_Constants {
+      const int8 START = 0;
+      const int8 ACK_START = 1;
+      const int8 STOP = 2;
+      const int8 ACK_STOP = 3;
+    };
+    struct Control {
+      int8 control_type;
+
+      builtin_interfaces::msg::Time stamp;
+
+      string mocap4r2_source;
+
+      string session_id;
+
+      sequence<string> mocap4r2_systems;
+    };
+  };
+};

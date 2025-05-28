@@ -1,0 +1,21 @@
+[0.140s] Invoking command in '/home/rosuser/ros2_ws/build/fri_client_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/fri_client_sdk -- -j4 -l4
+[3.006s] [100%] Built target FRIClient
+[4.378s] Invoked command in '/home/rosuser/ros2_ws/build/fri_client_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/fri_client_sdk -- -j4 -l4
+[4.454s] Invoking command in '/home/rosuser/ros2_ws/build/fri_client_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/fri_client_sdk
+[4.486s] -- Install configuration: "Release"
+[4.519s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/lib/libFRIClient.so
+[4.520s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friException.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friClientApplication.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friClientVersion.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friUdpConnection.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friLBRClient.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friConnectionIf.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friClientIf.h
+[4.541s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friTransformationClient.h
+[4.542s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friLBRState.h
+[4.542s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/include/friLBRCommand.h
+[4.694s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/lib/cmake/FRIClient/FRIClientConfig.cmake
+[4.694s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/lib/cmake/FRIClient/FRIClientConfig-release.cmake
+[4.694s] -- Up-to-date: /home/rosuser/ros2_ws/install/fri_client_sdk/lib/cmake/FRIClient/FRIClientConfigVersion.cmake
+[4.707s] Invoked command in '/home/rosuser/ros2_ws/build/fri_client_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/fri_client_sdk

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "mocap4r2_control_msgs__py",
+		"source" : "/home/rosuser/ros2_ws/build/mocap4r2_control_msgs/mocap4r2_control_msgs__py"
+	}
+}

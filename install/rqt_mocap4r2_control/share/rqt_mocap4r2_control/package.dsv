@@ -1,0 +1,8 @@
+source;share/rqt_mocap4r2_control/hook/cmake_prefix_path.ps1
+source;share/rqt_mocap4r2_control/hook/cmake_prefix_path.dsv
+source;share/rqt_mocap4r2_control/hook/cmake_prefix_path.sh
+source;share/rqt_mocap4r2_control/local_setup.bash
+source;share/rqt_mocap4r2_control/local_setup.dsv
+source;share/rqt_mocap4r2_control/local_setup.ps1
+source;share/rqt_mocap4r2_control/local_setup.sh
+source;share/rqt_mocap4r2_control/local_setup.zsh

@@ -1,0 +1,16 @@
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/lib/mocap4r2_marker_publisher/mocap4r2_marker_publisher
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/ament_index/resource_index/package_run_dependencies/mocap4r2_marker_publisher
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/ament_index/resource_index/parent_prefix_path/mocap4r2_marker_publisher
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/environment/ament_prefix_path.sh
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/environment/ament_prefix_path.dsv
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/environment/path.sh
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/environment/path.dsv
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/local_setup.bash
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/local_setup.sh
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/local_setup.zsh
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/local_setup.dsv
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/package.dsv
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/ament_index/resource_index/packages/mocap4r2_marker_publisher
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/cmake/mocap4r2_marker_publisherConfig.cmake
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/cmake/mocap4r2_marker_publisherConfig-version.cmake
+/home/rosuser/ros2_ws/install/mocap4r2_marker_publisher/share/mocap4r2_marker_publisher/package.xml

@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/build/lbr_description/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/build/iiwa14_moveit_config/ament_cmake_environment_hooks/local_setup.sh

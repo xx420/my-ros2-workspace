@@ -1,0 +1,6 @@
+Invoking command in '/home/rosuser/ros2_ws/build/impedance_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_controllers/impedance_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/impedance_controller
+Invoked command in '/home/rosuser/ros2_ws/build/impedance_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_controllers/impedance_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/impedance_controller
+Invoking command in '/home/rosuser/ros2_ws/build/impedance_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/impedance_controller -- -j4 -l4
+Invoked command in '/home/rosuser/ros2_ws/build/impedance_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/impedance_controller -- -j4 -l4
+Invoking command in '/home/rosuser/ros2_ws/build/impedance_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/impedance_controller
+Invoked command in '/home/rosuser/ros2_ws/build/impedance_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/impedance_controller

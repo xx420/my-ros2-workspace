@@ -1,0 +1,4 @@
+source;share/mocap4r2_robot_gt/local_setup.bash
+source;share/mocap4r2_robot_gt/local_setup.dsv
+source;share/mocap4r2_robot_gt/local_setup.sh
+source;share/mocap4r2_robot_gt/local_setup.zsh

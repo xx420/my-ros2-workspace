@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating marker_pose_follow.egg-info
+writing marker_pose_follow.egg-info/PKG-INFO
+writing dependency_links to marker_pose_follow.egg-info/dependency_links.txt
+writing entry points to marker_pose_follow.egg-info/entry_points.txt
+writing requirements to marker_pose_follow.egg-info/requires.txt
+writing top-level names to marker_pose_follow.egg-info/top_level.txt
+writing manifest file 'marker_pose_follow.egg-info/SOURCES.txt'
+reading manifest file 'marker_pose_follow.egg-info/SOURCES.txt'
+writing manifest file 'marker_pose_follow.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rosuser/ros2_ws/install/marker_pose_follow/lib/python3.10/site-packages/marker-pose-follow.egg-link (link to .)
+Installing pose_follower script to /home/rosuser/ros2_ws/install/marker_pose_follow/lib/marker_pose_follow
+Installing pose_to_tf script to /home/rosuser/ros2_ws/install/marker_pose_follow/lib/marker_pose_follow
+
+Installed /home/rosuser/ros2_ws/build/marker_pose_follow
+running symlink_data
+creating /home/rosuser/ros2_ws/install/marker_pose_follow/share/ament_index
+creating /home/rosuser/ros2_ws/install/marker_pose_follow/share/ament_index/resource_index
+creating /home/rosuser/ros2_ws/install/marker_pose_follow/share/ament_index/resource_index/packages
+symbolically linking /home/rosuser/ros2_ws/build/marker_pose_follow/resource/marker_pose_follow -> /home/rosuser/ros2_ws/install/marker_pose_follow/share/ament_index/resource_index/packages
+symbolically linking /home/rosuser/ros2_ws/build/marker_pose_follow/package.xml -> /home/rosuser/ros2_ws/install/marker_pose_follow/share/marker_pose_follow

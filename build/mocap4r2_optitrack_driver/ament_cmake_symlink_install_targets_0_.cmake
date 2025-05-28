@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rosuser/ros2_ws/build/mocap4r2_optitrack_driver/mocap4r2_optitrack_driver_main" "TARGETS" "mocap4r2_optitrack_driver_main" "RUNTIME_DESTINATION" "lib/mocap4r2_optitrack_driver")

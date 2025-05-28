@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b00207b231415fdd876e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mocap4r2_dummy_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_dummy_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_dummy_driver-d6b9b8b950fad4ff9979.json",
+					"name" : "mocap4r2_dummy_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_dummy_driver_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_dummy_driver_main-82e194fd3da8eff47daa.json",
+					"name" : "mocap4r2_dummy_driver_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_dummy_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_dummy_driver_uninstall-952cafcc2a9b66957fae.json",
+					"name" : "mocap4r2_dummy_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a781b875c83031476cda.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/mocap4r2_dummy_driver",
+		"source" : "/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_dummy_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

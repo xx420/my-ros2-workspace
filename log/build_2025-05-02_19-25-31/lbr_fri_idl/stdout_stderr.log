@@ -1,0 +1,25 @@
+[  1%] Built target lbr_fri_idl__cpp
+[ 11%] Built target lbr_fri_idl__rosidl_generator_c
+[ 14%] Built target gtest_main
+[ 14%] Built target ament_cmake_python_symlink_lbr_fri_idl
+[ 17%] Built target gtest
+[ 27%] Built target lbr_fri_idl__rosidl_typesupport_cpp
+[ 37%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_cpp
+[ 47%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_c
+[ 57%] Built target lbr_fri_idl__rosidl_typesupport_introspection_c
+[ 68%] Built target lbr_fri_idl__rosidl_typesupport_c
+[ 78%] Built target lbr_fri_idl__rosidl_typesupport_introspection_cpp
+[ 81%] Built target lbr_fri_idl_test_command_interfaces
+[ 81%] Built target lbr_fri_idl
+[ 82%] Built target lbr_fri_idl__py
+[ 91%] Built target lbr_fri_idl__rosidl_generator_py
+[ 94%] Built target lbr_fri_idl__rosidl_typesupport_fastrtps_c__pyext
+[ 97%] Built target lbr_fri_idl__rosidl_typesupport_introspection_c__pyext
+[100%] Built target lbr_fri_idl__rosidl_typesupport_c__pyext
+running egg_info
+writing lbr_fri_idl.egg-info/PKG-INFO
+writing dependency_links to lbr_fri_idl.egg-info/dependency_links.txt
+writing top-level names to lbr_fri_idl.egg-info/top_level.txt
+reading manifest file 'lbr_fri_idl.egg-info/SOURCES.txt'
+writing manifest file 'lbr_fri_idl.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_lbr_fri_idl_egg

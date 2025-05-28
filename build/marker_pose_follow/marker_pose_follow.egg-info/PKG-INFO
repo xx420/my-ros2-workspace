@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: marker-pose-follow
+Version: 0.0.0
+Summary: ROS2 package to move iiwa14 end-effector to tracked marker pose
+Home-page: UNKNOWN
+Maintainer: rosuser
+Maintainer-email: imtiajsayem5@gmail.com
+License: Apache-2.0
+Platform: UNKNOWN
+
+UNKNOWN
+

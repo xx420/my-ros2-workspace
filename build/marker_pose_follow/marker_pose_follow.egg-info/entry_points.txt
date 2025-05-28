@@ -1,0 +1,4 @@
+[console_scripts]
+pose_follower = marker_pose_follow.pose_follower:main
+pose_to_tf = marker_pose_follow.pose_to_tf:main
+

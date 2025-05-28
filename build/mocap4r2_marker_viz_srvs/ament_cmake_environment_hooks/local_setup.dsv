@@ -1,0 +1,4 @@
+source;share/mocap4r2_marker_viz_srvs/environment/ament_prefix_path.sh
+source;share/mocap4r2_marker_viz_srvs/environment/library_path.sh
+source;share/mocap4r2_marker_viz_srvs/environment/path.sh
+source;share/mocap4r2_marker_viz_srvs/environment/pythonpath.sh

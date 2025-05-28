@@ -1,0 +1,6 @@
+In file included from [01m[K/home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_controllers/external_torque_sensor_broadcaster/include/external_torque_sensor_broadcaster/external_torque_sensor_broadcaster.hpp:27[m[K,
+                 from [01m[K/home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_controllers/external_torque_sensor_broadcaster/src/external_torque_sensor_broadcaster.cpp:15[m[K:
+[01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_publisher.h:22:103:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_publisher.hpp' header.[m[K’
+   22 | se update your code to use 'realtime_publisher.hpp' header."[01;36m[K)[m[K  //NOLINT
+      |                                                             [01;36m[K^[m[K
+

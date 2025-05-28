@@ -1,0 +1,5 @@
+/home/rosuser/ros2_ws/build/mocap4r2_msgs/rosidl_adapter/mocap4r2_msgs:msg/Marker.idl
+/home/rosuser/ros2_ws/build/mocap4r2_msgs/rosidl_adapter/mocap4r2_msgs:msg/Markers.idl
+/home/rosuser/ros2_ws/build/mocap4r2_msgs/rosidl_adapter/mocap4r2_msgs:msg/ImusInfo.idl
+/home/rosuser/ros2_ws/build/mocap4r2_msgs/rosidl_adapter/mocap4r2_msgs:msg/RigidBody.idl
+/home/rosuser/ros2_ws/build/mocap4r2_msgs/rosidl_adapter/mocap4r2_msgs:msg/RigidBodies.idl

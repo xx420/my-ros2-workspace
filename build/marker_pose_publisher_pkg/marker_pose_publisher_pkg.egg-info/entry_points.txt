@@ -1,0 +1,3 @@
+[console_scripts]
+marker_pose_publisher = marker_pose_publisher_pkg.marker_pose_publisher:main
+

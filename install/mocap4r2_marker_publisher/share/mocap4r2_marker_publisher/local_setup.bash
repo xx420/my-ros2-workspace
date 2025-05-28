@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/build/mocap4r2_marker_publisher/ament_cmake_environment_hooks/local_setup.bash

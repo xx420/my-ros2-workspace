@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/build/lbr_bringup/ament_cmake_core/lbr_bringupConfig-version.cmake

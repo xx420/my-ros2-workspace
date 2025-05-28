@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mocap4r2_marker_viz_srvs/srv/ResetMarkerColor.srv
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Int32.idl"
+
+module mocap4r2_marker_viz_srvs {
+  module srv {
+    struct ResetMarkerColor_Request {
+      std_msgs::msg::Int32 id;
+    };
+    struct ResetMarkerColor_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

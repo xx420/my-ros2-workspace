@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/build/mocap4r2_marker_viz_srvs/rosidl_generator_py/mocap4r2_marker_viz_srvs/__init__.py

@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mocap4r2_control_msgs/msg/MocapInfo.msg
+// generated code does not contain a copyright notice
+
+
+module mocap4r2_control_msgs {
+  module msg {
+    module MocapInfo_Constants {
+      const int8 ROS2 = 0;
+      const int8 ROS1 = 1;
+    };
+    struct MocapInfo {
+      string mocap4r2_source;
+
+      int8 ros_version_source;
+
+      sequence<string> topics;
+    };
+  };
+};

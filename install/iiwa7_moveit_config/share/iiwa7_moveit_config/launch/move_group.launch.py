@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa7_moveit_config/launch/move_group.launch.py

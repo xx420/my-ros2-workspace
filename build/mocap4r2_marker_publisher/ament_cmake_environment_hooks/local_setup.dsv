@@ -1,0 +1,2 @@
+source;share/mocap4r2_marker_publisher/environment/ament_prefix_path.sh
+source;share/mocap4r2_marker_publisher/environment/path.sh

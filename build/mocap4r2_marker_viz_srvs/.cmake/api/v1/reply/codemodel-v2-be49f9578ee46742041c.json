@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-816d5174792505a3d2a2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "mocap4r2_marker_viz_srvs__py",
+					"jsonFile" : "directory-mocap4r2_marker_viz_srvs__py-133e8c45cdf7bf2beef1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/rosuser/ros2_ws/build/mocap4r2_marker_viz_srvs/mocap4r2_marker_viz_srvs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "mocap4r2_marker_viz_srvs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_mocap4r2_marker_viz_srvs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_mocap4r2_marker_viz_srvs_egg-c573de201fc46bb2021b.json",
+					"name" : "ament_cmake_python_build_mocap4r2_marker_viz_srvs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_mocap4r2_marker_viz_srvs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_mocap4r2_marker_viz_srvs-dda8ac87f908ce95a37a.json",
+					"name" : "ament_cmake_python_symlink_mocap4r2_marker_viz_srvs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs-775afb621fd725b2778f.json",
+					"name" : "mocap4r2_marker_viz_srvs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__cpp-84dec136cfd48f83ddf1.json",
+					"name" : "mocap4r2_marker_viz_srvs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mocap4r2_marker_viz_srvs__py::@55f064cd3e33314b501c",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__py-39be0d25fb65f2dcde7c.json",
+					"name" : "mocap4r2_marker_viz_srvs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_generator_c-8062f7e4b63637b0ab28.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_generator_py-94ed968afdbb20c9e150.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_c-798da3eb2c566dadb5af.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_c__pyext-88880d0efbb33de64715.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_cpp-0e2e582b3411b90721e4.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c-0768e5e796c34bad09b0.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c__pyext-164f800e05fc160b8dfc.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_cpp-3290e8c30b9f5507290f.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c-c3f6dead8343ebdf34a4.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c__pyext-7a2c7bae9d1ed486f967.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_cpp-d3d5c6eb3eed030749e8.json",
+					"name" : "mocap4r2_marker_viz_srvs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_marker_viz_srvs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_marker_viz_srvs_uninstall-b6fae81f90fa8b4f7372.json",
+					"name" : "mocap4r2_marker_viz_srvs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-276f38ec9c67f83b1df8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/mocap4r2_marker_viz_srvs",
+		"source" : "/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_marker_viz/mocap4r2_marker_viz_srvs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

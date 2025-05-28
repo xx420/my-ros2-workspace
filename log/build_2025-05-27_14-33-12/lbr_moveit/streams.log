@@ -1,0 +1,49 @@
+[21.394s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_moveit': PYTHONPATH=/home/rosuser/ros2_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rosuser/ros2_ws/build/lbr_moveit/build
+[21.903s] running develop
+[22.309s] Removing /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr-moveit.egg-link (link to .)
+[22.351s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_moveit' returned '0': PYTHONPATH=/home/rosuser/ros2_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rosuser/ros2_ws/build/lbr_moveit/build
+[22.355s] Invoking command in '/home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_moveit': PYTHONPATH=/home/rosuser/ros2_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/lbr_moveit build --build-base /home/rosuser/ros2_ws/build/lbr_moveit/build install --record /home/rosuser/ros2_ws/build/lbr_moveit/install.log --single-version-externally-managed install_data --force
+[22.806s] running egg_info
+[22.806s] writing ../../../../build/lbr_moveit/lbr_moveit.egg-info/PKG-INFO
+[22.806s] writing dependency_links to ../../../../build/lbr_moveit/lbr_moveit.egg-info/dependency_links.txt
+[22.806s] writing entry points to ../../../../build/lbr_moveit/lbr_moveit.egg-info/entry_points.txt
+[22.806s] writing requirements to ../../../../build/lbr_moveit/lbr_moveit.egg-info/requires.txt
+[22.806s] writing top-level names to ../../../../build/lbr_moveit/lbr_moveit.egg-info/top_level.txt
+[22.807s] reading manifest file '../../../../build/lbr_moveit/lbr_moveit.egg-info/SOURCES.txt'
+[22.825s] writing manifest file '../../../../build/lbr_moveit/lbr_moveit.egg-info/SOURCES.txt'
+[22.825s] running build
+[22.825s] running build_py
+[22.826s] creating /home/rosuser/ros2_ws/build/lbr_moveit/build
+[22.826s] creating /home/rosuser/ros2_ws/build/lbr_moveit/build/lib
+[22.826s] creating /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/scripts
+[22.826s] copying scripts/forward_keyboard.py -> /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/scripts
+[22.844s] copying scripts/__init__.py -> /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/scripts
+[22.844s] creating /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit
+[22.844s] copying lbr_moveit/forward_keyboard_node.py -> /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit
+[22.860s] copying lbr_moveit/__init__.py -> /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit
+[22.860s] copying lbr_moveit/keyboard_listener.py -> /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit
+[22.877s] running install
+[22.877s] running install_lib
+[22.878s] creating /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/scripts
+[22.878s] copying /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/scripts/forward_keyboard.py -> /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/scripts
+[22.878s] copying /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/scripts/__init__.py -> /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/scripts
+[22.879s] creating /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit
+[22.879s] copying /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit/forward_keyboard_node.py -> /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit
+[22.879s] copying /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit/__init__.py -> /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit
+[22.879s] copying /home/rosuser/ros2_ws/build/lbr_moveit/build/lib/lbr_moveit/keyboard_listener.py -> /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit
+[22.880s] byte-compiling /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/scripts/forward_keyboard.py to forward_keyboard.cpython-310.pyc
+[22.881s] byte-compiling /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/scripts/__init__.py to __init__.cpython-310.pyc
+[22.881s] byte-compiling /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit/forward_keyboard_node.py to forward_keyboard_node.cpython-310.pyc
+[22.884s] byte-compiling /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit/__init__.py to __init__.cpython-310.pyc
+[22.884s] byte-compiling /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit/keyboard_listener.py to keyboard_listener.cpython-310.pyc
+[22.885s] running install_data
+[22.886s] copying resource/lbr_moveit -> /home/rosuser/ros2_ws/install/lbr_moveit/share/ament_index/resource_index/packages
+[22.899s] copying package.xml -> /home/rosuser/ros2_ws/install/lbr_moveit/share/lbr_moveit
+[22.899s] copying config/forward_keyboard.yaml -> /home/rosuser/ros2_ws/install/lbr_moveit/share/lbr_moveit/config
+[22.939s] copying launch/keyboard_driver.launch.py -> /home/rosuser/ros2_ws/install/lbr_moveit/share/lbr_moveit/launch
+[22.952s] running install_egg_info
+[22.955s] Copying ../../../../build/lbr_moveit/lbr_moveit.egg-info to /home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr_moveit-2.2.1-py3.10.egg-info
+[22.964s] running install_scripts
+[23.003s] Installing forward_keyboard script to /home/rosuser/ros2_ws/install/lbr_moveit/lib/lbr_moveit
+[23.004s] writing list of installed files to '/home/rosuser/ros2_ws/build/lbr_moveit/install.log'
+[23.041s] Invoked command in '/home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_moveit' returned '0': PYTHONPATH=/home/rosuser/ros2_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/lbr_moveit build --build-base /home/rosuser/ros2_ws/build/lbr_moveit/build install --record /home/rosuser/ros2_ws/build/lbr_moveit/install.log --single-version-externally-managed install_data --force

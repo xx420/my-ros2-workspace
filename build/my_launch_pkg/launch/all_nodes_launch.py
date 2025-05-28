@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/my_launch_pkg/launch/all_nodes_launch.py

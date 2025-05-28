@@ -1,0 +1,8 @@
+source;share/mocap4r2_optitrack_driver/hook/cmake_prefix_path.ps1
+source;share/mocap4r2_optitrack_driver/hook/cmake_prefix_path.dsv
+source;share/mocap4r2_optitrack_driver/hook/cmake_prefix_path.sh
+source;share/mocap4r2_optitrack_driver/local_setup.bash
+source;share/mocap4r2_optitrack_driver/local_setup.dsv
+source;share/mocap4r2_optitrack_driver/local_setup.ps1
+source;share/mocap4r2_optitrack_driver/local_setup.sh
+source;share/mocap4r2_optitrack_driver/local_setup.zsh

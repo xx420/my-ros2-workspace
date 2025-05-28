@@ -1,0 +1,6 @@
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_description
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa_description
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_description -- -j4 -l4
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_description -- -j4 -l4
+Invoking command in '/home/rosuser/ros2_ws/build/iiwa_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_description
+Invoked command in '/home/rosuser/ros2_ws/build/iiwa_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_description

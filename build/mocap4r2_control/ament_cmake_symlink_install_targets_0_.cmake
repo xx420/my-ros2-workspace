@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rosuser/ros2_ws/build/mocap4r2_control/libmocap4r2_control.so" "/home/rosuser/ros2_ws/build/mocap4r2_control/auxiliar_main" "TARGETS" "mocap4r2_control" "auxiliar_main" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/mocap4r2_control")

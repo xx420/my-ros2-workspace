@@ -1,0 +1,220 @@
+[0.037s] Invoking command in '/home/rosuser/ros2_ws/build/mocap4r2_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/mocap4r2_msgs -- -j4 -l4
+[1.023s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.262s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.301s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.503s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.087s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.438s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.928s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[5.039s] -- Found std_msgs: 4.8.0 (/opt/ros/humble/share/std_msgs/cmake)
+[5.540s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[6.685s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[7.685s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[8.364s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.470s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[8.563s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.563s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[8.563s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[9.541s] -- Configuring done
+[10.001s] -- Generating done
+[10.017s] -- Build files have been written to: /home/rosuser/ros2_ws/build/mocap4r2_msgs
+[10.082s] [  1%] Built target mocap4r2_msgs__cpp
+[10.097s] [  1%] Built target ament_cmake_python_symlink_mocap4r2_msgs
+[10.198s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_introspection_cpp[0m
+[10.212s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_cpp[0m
+[10.250s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[10.283s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_generator_c[0m
+[10.422s] [ 23%] Built target mocap4r2_msgs__rosidl_typesupport_introspection_cpp
+[10.422s] [ 23%] Built target mocap4r2_msgs__rosidl_generator_c
+[10.427s] [ 34%] Built target mocap4r2_msgs__rosidl_typesupport_cpp
+[10.489s] [ 46%] Built target mocap4r2_msgs__rosidl_typesupport_fastrtps_cpp
+[10.495s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_introspection_c[0m
+[10.534s] [ 57%] Built target mocap4r2_msgs__rosidl_typesupport_introspection_c
+[10.571s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_fastrtps_c[0m
+[10.601s] [ 68%] Built target mocap4r2_msgs__rosidl_typesupport_fastrtps_c
+[10.746s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_c[0m
+[10.768s] [ 79%] Built target mocap4r2_msgs__rosidl_typesupport_c
+[10.848s] [ 79%] Built target mocap4r2_msgs
+[10.923s] [ 80%] Built target mocap4r2_msgs__py
+[11.306s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_generator_py[0m
+[11.335s] [ 90%] Built target mocap4r2_msgs__rosidl_generator_py
+[11.340s] running egg_info
+[11.341s] writing mocap4r2_msgs.egg-info/PKG-INFO
+[11.341s] writing dependency_links to mocap4r2_msgs.egg-info/dependency_links.txt
+[11.341s] writing top-level names to mocap4r2_msgs.egg-info/top_level.txt
+[11.362s] reading manifest file 'mocap4r2_msgs.egg-info/SOURCES.txt'
+[11.382s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[11.390s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[11.390s] [35m[1mConsolidate compiler generated dependencies of target mocap4r2_msgs__rosidl_typesupport_c__pyext[0m
+[11.405s] [ 93%] Built target mocap4r2_msgs__rosidl_typesupport_introspection_c__pyext
+[11.407s] writing manifest file 'mocap4r2_msgs.egg-info/SOURCES.txt'
+[11.412s] [100%] Built target mocap4r2_msgs__rosidl_typesupport_c__pyext
+[11.412s] [100%] Built target mocap4r2_msgs__rosidl_typesupport_fastrtps_c__pyext
+[11.449s] [100%] Built target ament_cmake_python_build_mocap4r2_msgs_egg
+[11.468s] Invoked command in '/home/rosuser/ros2_ws/build/mocap4r2_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/mocap4r2_msgs -- -j4 -l4
+[11.520s] Invoking command in '/home/rosuser/ros2_ws/build/mocap4r2_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/mocap4r2_msgs
+[11.535s] -- Install configuration: ""
+[11.536s] -- Execute custom install script
+[11.581s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/ament_index/resource_index/rosidl_interfaces/mocap4r2_msgs
+[11.696s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__functions.h
+[11.713s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__struct.h
+[11.730s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__type_support.h
+[11.755s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__functions.h
+[11.771s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__struct.h
+[11.788s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__type_support.h
+[11.805s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__functions.h
+[11.821s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__struct.h
+[11.838s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__type_support.h
+[11.863s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__functions.h
+[11.880s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__struct.h
+[11.897s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__type_support.h
+[11.905s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__functions.h
+[11.922s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__struct.h
+[11.947s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__type_support.h
+[11.963s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/imus_info.h
+[11.980s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/marker.h
+[11.988s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/markers.h
+[12.005s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rigid_bodies.h
+[12.030s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rigid_body.h
+[12.038s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rosidl_generator_c__visibility_control.h
+[12.055s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/library_path.sh
+[12.056s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/library_path.dsv
+[12.080s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__rosidl_typesupport_fastrtps_c.h
+[12.089s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_c.h
+[12.114s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__rosidl_typesupport_fastrtps_c.h
+[12.130s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__rosidl_typesupport_fastrtps_c.h
+[12.139s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__rosidl_typesupport_fastrtps_c.h
+[12.147s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[12.172s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__rosidl_typesupport_introspection_c.h
+[12.181s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__rosidl_typesupport_introspection_c.h
+[12.205s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__rosidl_typesupport_introspection_c.h
+[12.222s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__rosidl_typesupport_introspection_c.h
+[12.239s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__rosidl_typesupport_introspection_c.h
+[12.256s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[12.305s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__builder.hpp
+[12.314s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__struct.hpp
+[12.330s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__traits.hpp
+[12.356s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__type_support.hpp
+[12.381s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__builder.hpp
+[12.398s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__struct.hpp
+[12.414s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__traits.hpp
+[12.431s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__type_support.hpp
+[12.447s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__builder.hpp
+[12.473s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__struct.hpp
+[12.506s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__traits.hpp
+[12.539s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__type_support.hpp
+[12.565s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__builder.hpp
+[12.590s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__struct.hpp
+[12.614s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__traits.hpp
+[12.639s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__type_support.hpp
+[12.641s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__builder.hpp
+[12.641s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__struct.hpp
+[12.641s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__traits.hpp
+[12.642s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__type_support.hpp
+[12.642s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/imus_info.hpp
+[12.642s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/marker.hpp
+[12.642s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/markers.hpp
+[12.643s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rigid_bodies.hpp
+[12.643s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rigid_body.hpp
+[12.643s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[12.644s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__rosidl_typesupport_fastrtps_cpp.hpp
+[12.644s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp
+[12.645s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__rosidl_typesupport_fastrtps_cpp.hpp
+[12.645s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__rosidl_typesupport_fastrtps_cpp.hpp
+[12.645s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__rosidl_typesupport_fastrtps_cpp.hpp
+[12.675s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[12.676s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/imus_info__rosidl_typesupport_introspection_cpp.hpp
+[12.676s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp
+[12.676s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/markers__rosidl_typesupport_introspection_cpp.hpp
+[12.677s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_bodies__rosidl_typesupport_introspection_cpp.hpp
+[12.677s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/include/mocap4r2_msgs/mocap4r2_msgs/msg/detail/rigid_body__rosidl_typesupport_introspection_cpp.hpp
+[12.677s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/pythonpath.sh
+[12.677s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/pythonpath.dsv
+[12.678s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs-0.0.3-py3.10.egg-info/PKG-INFO
+[12.698s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs-0.0.3-py3.10.egg-info/SOURCES.txt
+[12.698s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs-0.0.3-py3.10.egg-info/dependency_links.txt
+[12.699s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs-0.0.3-py3.10.egg-info/top_level.txt
+[12.766s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/__init__.py
+[12.780s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/_mocap4r2_msgs_s.ep.rosidl_typesupport_c.c
+[12.781s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/_mocap4r2_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[12.783s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/_mocap4r2_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[12.783s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/libmocap4r2_msgs__rosidl_generator_py.so
+[12.808s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[12.858s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[12.875s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[13.042s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/__init__.py
+[13.059s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_imus_info.py
+[13.076s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_imus_info_s.c
+[13.079s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_marker.py
+[13.079s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_marker_s.c
+[13.079s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_markers.py
+[13.080s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_markers_s.c
+[13.080s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_rigid_bodies.py
+[13.081s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_rigid_bodies_s.c
+[13.081s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_rigid_body.py
+[13.082s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg/_rigid_body_s.c
+[13.083s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[13.083s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[13.084s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/mocap4r2_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[13.085s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/Marker.idl
+[13.086s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/Markers.idl
+[13.087s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/ImusInfo.idl
+[13.088s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/RigidBody.idl
+[13.088s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/RigidBodies.idl
+[13.089s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/Marker.msg
+[13.089s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/Markers.msg
+[13.090s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/ImusInfo.msg
+[13.090s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/RigidBody.msg
+[13.091s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/msg/RigidBodies.msg
+[13.092s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/mocap4r2_bridge_mapping_rule.yaml
+[13.092s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/ament_index/resource_index/package_run_dependencies/mocap4r2_msgs
+[13.093s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/ament_index/resource_index/parent_prefix_path/mocap4r2_msgs
+[13.096s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/ament_prefix_path.sh
+[13.096s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/ament_prefix_path.dsv
+[13.096s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/path.sh
+[13.097s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/environment/path.dsv
+[13.097s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/local_setup.bash
+[13.098s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/local_setup.sh
+[13.099s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/local_setup.zsh
+[13.099s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/local_setup.dsv
+[13.099s] -- Symlinking: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/package.dsv
+[13.113s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/ament_index/resource_index/packages/mocap4r2_msgs
+[13.113s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/rosidl_cmake-extras.cmake
+[13.114s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[13.114s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[13.114s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[13.115s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[13.115s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[13.116s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[13.116s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgsConfig.cmake
+[13.116s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgsConfig-version.cmake
+[13.116s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/package.xml
+[13.161s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_generator_c.so
+[13.209s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_fastrtps_c.so
+[13.210s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_introspection_c.so
+[13.211s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_c.so
+[13.211s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_fastrtps_cpp.so
+[13.212s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_introspection_cpp.so
+[13.212s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_typesupport_cpp.so
+[13.308s] Listing '/home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs'...
+[13.309s] Compiling '/home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/__init__.py'...
+[13.309s] Listing '/home/rosuser/ros2_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages/mocap4r2_msgs/msg'...
+[13.315s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/lib/libmocap4r2_msgs__rosidl_generator_py.so
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_generator_cExport.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_generator_cExport-noconfig.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_introspection_cExport.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[13.316s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_cExport.cmake
+[13.317s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[13.333s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_generator_cppExport.cmake
+[13.333s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[13.333s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[13.333s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[13.333s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[13.334s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_cppExport.cmake
+[13.334s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/mocap4r2_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[13.334s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_generator_pyExport.cmake
+[13.335s] -- Up-to-date: /home/rosuser/ros2_ws/install/mocap4r2_msgs/share/mocap4r2_msgs/cmake/export_mocap4r2_msgs__rosidl_generator_pyExport-noconfig.cmake
+[13.340s] Invoked command in '/home/rosuser/ros2_ws/build/mocap4r2_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/mocap4r2_msgs

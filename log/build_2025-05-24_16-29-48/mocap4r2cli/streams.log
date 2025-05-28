@@ -1,0 +1,23 @@
+[1.285s] Invoking command in '/home/rosuser/ros2_ws/build/mocap4r2cli': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/rosuser/ros2_ws/build/mocap4r2cli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages:/home/rosuser/ros2_ws/install/mocap4r2_control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosuser/ros2_ws/build/mocap4r2cli/build --no-deps symlink_data
+[1.761s] running develop
+[2.054s] running egg_info
+[2.054s] creating mocap4r2cli.egg-info
+[2.055s] writing mocap4r2cli.egg-info/PKG-INFO
+[2.055s] writing dependency_links to mocap4r2cli.egg-info/dependency_links.txt
+[2.055s] writing entry points to mocap4r2cli.egg-info/entry_points.txt
+[2.055s] writing requirements to mocap4r2cli.egg-info/requires.txt
+[2.055s] writing top-level names to mocap4r2cli.egg-info/top_level.txt
+[2.055s] writing manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+[2.058s] reading manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+[2.059s] writing manifest file 'mocap4r2cli.egg-info/SOURCES.txt'
+[2.071s] running build_ext
+[2.071s] Creating /home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages/mocap4r2cli.egg-link (link to .)
+[2.071s] 
+[2.071s] Installed /home/rosuser/ros2_ws/build/mocap4r2cli
+[2.071s] running symlink_data
+[2.071s] symbolically linking /home/rosuser/ros2_ws/build/mocap4r2cli/package.xml -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/mocap4r2cli
+[2.072s] creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index
+[2.072s] creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index
+[2.072s] creating /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index/packages
+[2.072s] symbolically linking /home/rosuser/ros2_ws/build/mocap4r2cli/resource/mocap4r2cli -> /home/rosuser/ros2_ws/install/mocap4r2cli/share/ament_index/resource_index/packages
+[2.114s] Invoked command in '/home/rosuser/ros2_ws/build/mocap4r2cli' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/mocap4r2_control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/rosuser/ros2_ws/build/mocap4r2cli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/mocap4r2cli/lib/python3.10/site-packages:/home/rosuser/ros2_ws/install/mocap4r2_control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosuser/ros2_ws/build/mocap4r2cli/build --no-deps symlink_data

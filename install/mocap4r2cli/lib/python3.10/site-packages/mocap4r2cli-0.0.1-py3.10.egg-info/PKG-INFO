@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: mocap4r2cli
+Version: 0.0.1
+Summary: Command line tools for MOCAP4ROS2 Project.
+Home-page: https://github.com/MOCAP4ROS2-Project/mocap4r2/mocap4r2cli
+Author: Francisco Martín
+Author-email: fmrico@gmail.com
+Maintainer: Francisco Martín
+Maintainer-email: fmrico@gmail.com
+License: Apache License, Version 2.0
+Download-URL: https://github.com/MOCAP4ROS2-Project/mocap4r2/mocap4r2cli/releases
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+License-File: LICENSE
+
+The package provides the mocap4r2 command as a plugin for MOCAP4ROS2 Project.
+

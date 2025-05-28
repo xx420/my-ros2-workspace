@@ -1,0 +1,4 @@
+Invoking command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster -- -j4 -l4
+Invoked command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster -- -j4 -l4
+Invoking command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster
+Invoked command in '/home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/external_torque_sensor_broadcaster

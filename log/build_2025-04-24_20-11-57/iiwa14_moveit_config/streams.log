@@ -1,0 +1,51 @@
+[0.043s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa14_moveit_config
+[0.184s] -- The C compiler identification is GNU 11.4.0
+[0.351s] -- The CXX compiler identification is GNU 11.4.0
+[0.379s] -- Detecting C compiler ABI info
+[0.568s] -- Detecting C compiler ABI info - done
+[0.592s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.592s] -- Detecting C compile features
+[0.593s] -- Detecting C compile features - done
+[0.600s] -- Detecting CXX compiler ABI info
+[0.874s] -- Detecting CXX compiler ABI info - done
+[0.898s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.899s] -- Detecting CXX compile features
+[0.906s] -- Detecting CXX compile features - done
+[0.915s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.379s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.598s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.864s] -- Configuring done
+[1.875s] -- Generating done
+[1.879s] -- Build files have been written to: /home/rosuser/ros2_ws/build/iiwa14_moveit_config
+[1.901s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa14_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/iiwa14_moveit_config
+[1.901s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa14_moveit_config -- -j4 -l4
+[2.001s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa14_moveit_config -- -j4 -l4
+[2.009s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa14_moveit_config
+[2.028s] -- Install configuration: ""
+[2.028s] -- Execute custom install script
+[2.028s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/package_run_dependencies/iiwa14_moveit_config
+[2.053s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/parent_prefix_path/iiwa14_moveit_config
+[2.088s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.sh
+[2.112s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.dsv
+[2.132s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.sh
+[2.155s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.dsv
+[2.180s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.bash
+[2.205s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.sh
+[2.227s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.zsh
+[2.258s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.dsv
+[2.283s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.dsv
+[2.306s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/packages/iiwa14_moveit_config
+[2.331s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig.cmake
+[2.354s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig-version.cmake
+[2.379s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.xml
+[2.402s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/move_group.launch.py
+[2.422s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/moveit_rviz.launch.py
+[2.442s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/setup_assistant.launch.py
+[2.465s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/iiwa14.srdf
+[2.497s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/joint_limits.yaml
+[2.522s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/kinematics.yaml
+[2.545s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit.rviz
+[2.568s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit_controllers.yaml
+[2.590s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/pilz_cartesian_limits.yaml
+[2.615s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/.setup_assistant
+[2.655s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa14_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_description:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa14_moveit_config

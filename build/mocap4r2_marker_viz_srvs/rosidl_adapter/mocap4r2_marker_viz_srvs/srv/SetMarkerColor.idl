@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mocap4r2_marker_viz_srvs/srv/SetMarkerColor.srv
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/ColorRGBA.idl"
+#include "std_msgs/msg/Int32.idl"
+
+module mocap4r2_marker_viz_srvs {
+  module srv {
+    struct SetMarkerColor_Request {
+      std_msgs::msg::Int32 id;
+
+      std_msgs::msg::ColorRGBA color;
+    };
+    struct SetMarkerColor_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

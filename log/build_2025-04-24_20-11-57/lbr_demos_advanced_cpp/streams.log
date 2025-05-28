@@ -1,0 +1,82 @@
+[0.020s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp
+[0.099s] -- The C compiler identification is GNU 11.4.0
+[0.171s] -- The CXX compiler identification is GNU 11.4.0
+[0.184s] -- Detecting C compiler ABI info
+[0.277s] -- Detecting C compiler ABI info - done
+[0.287s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.288s] -- Detecting C compile features
+[0.288s] -- Detecting C compile features - done
+[0.293s] -- Detecting CXX compiler ABI info
+[0.396s] -- Detecting CXX compiler ABI info - done
+[0.408s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.408s] -- Detecting CXX compile features
+[0.410s] -- Detecting CXX compile features - done
+[0.413s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.609s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.697s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.743s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.795s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.802s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.815s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.833s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.858s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.919s] -- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+[0.936s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.938s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.938s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.941s] -- Found lbr_fri_idl: 1.5.0 (/home/rosuser/ros2_ws/install/lbr_fri_idl/share/lbr_fri_idl/cmake)
+[0.957s] -- Found lbr_fri_ros2: 2.2.1 (/home/rosuser/ros2_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake)
+[1.021s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.025s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.138s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.176s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.231s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.243s] -- Looking for pthread.h
+[1.335s] -- Looking for pthread.h - found
+[1.336s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.435s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.436s] -- Found Threads: TRUE  
+[1.568s] -- Found rclcpp_components: 16.0.12 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.721s] -- Configuring done
+[1.745s] -- Generating done
+[1.755s] -- Build files have been written to: /home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp
+[1.768s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_advanced_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp
+[1.769s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp -- -j4 -l4
+[1.837s] [ 12%] [32mBuilding CXX object CMakeFiles/pose_planning.dir/rclcpp_components/node_main_pose_planning.cpp.o[0m
+[1.838s] [ 25%] [32mBuilding CXX object CMakeFiles/pose_planning_component.dir/src/pose_planning_node.cpp.o[0m
+[10.219s] [ 37%] [32m[1mLinking CXX executable pose_planning[0m
+[10.399s] [ 37%] Built target pose_planning
+[21.692s] [ 50%] [32m[1mLinking CXX shared library libpose_planning_component.so[0m
+[21.920s] [ 50%] Built target pose_planning_component
+[21.946s] [ 62%] [32mBuilding CXX object CMakeFiles/pose_control.dir/rclcpp_components/node_main_pose_control.cpp.o[0m
+[26.827s] [ 75%] [32m[1mLinking CXX executable pose_control[0m
+[26.971s] [ 75%] Built target pose_control
+[26.997s] [ 87%] [32mBuilding CXX object CMakeFiles/pose_control_component.dir/src/pose_control_node.cpp.o[0m
+[49.066s] [100%] [32m[1mLinking CXX shared library libpose_control_component.so[0m
+[49.315s] [100%] Built target pose_control_component
+[49.329s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp -- -j4 -l4
+[49.331s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp
+[49.340s] -- Install configuration: "Release"
+[49.340s] -- Execute custom install script
+[49.341s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/lib/lbr_demos_advanced_cpp/pose_planning
+[49.352s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/lib/lbr_demos_advanced_cpp/pose_control
+[49.363s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/lib/libpose_planning_component.so
+[49.374s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/lib/libpose_control_component.so
+[49.392s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/config/lbr_system_config.yaml
+[49.403s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/package_run_dependencies/lbr_demos_advanced_cpp
+[49.413s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/parent_prefix_path/lbr_demos_advanced_cpp
+[49.424s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/ament_prefix_path.sh
+[49.435s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/ament_prefix_path.dsv
+[49.446s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/path.sh
+[49.457s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/environment/path.dsv
+[49.468s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.bash
+[49.478s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.sh
+[49.489s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.zsh
+[49.499s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/local_setup.dsv
+[49.513s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/package.dsv
+[49.525s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/packages/lbr_demos_advanced_cpp
+[49.536s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/ament_index/resource_index/rclcpp_components/lbr_demos_advanced_cpp
+[49.547s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/cmake/lbr_demos_advanced_cppConfig.cmake
+[49.558s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/cmake/lbr_demos_advanced_cppConfig-version.cmake
+[49.569s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_advanced_cpp/share/lbr_demos_advanced_cpp/package.xml
+[49.584s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_demos_advanced_cpp

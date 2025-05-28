@@ -1,0 +1,35 @@
+[1.137s] Invoking command in '/home/rosuser/ros2_ws/src/combined_launch': PYTHONPATH=/home/rosuser/ros2_ws/build/combined_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/combined_launch build --build-base /home/rosuser/ros2_ws/build/combined_launch/build install --record /home/rosuser/ros2_ws/build/combined_launch/install.log --single-version-externally-managed install_data
+[1.573s] running egg_info
+[1.574s] creating ../../build/combined_launch/combined_launch.egg-info
+[1.575s] writing ../../build/combined_launch/combined_launch.egg-info/PKG-INFO
+[1.575s] writing dependency_links to ../../build/combined_launch/combined_launch.egg-info/dependency_links.txt
+[1.575s] writing entry points to ../../build/combined_launch/combined_launch.egg-info/entry_points.txt
+[1.575s] writing requirements to ../../build/combined_launch/combined_launch.egg-info/requires.txt
+[1.575s] writing top-level names to ../../build/combined_launch/combined_launch.egg-info/top_level.txt
+[1.576s] writing manifest file '../../build/combined_launch/combined_launch.egg-info/SOURCES.txt'
+[1.577s] reading manifest file '../../build/combined_launch/combined_launch.egg-info/SOURCES.txt'
+[1.578s] writing manifest file '../../build/combined_launch/combined_launch.egg-info/SOURCES.txt'
+[1.578s] running build
+[1.578s] running build_py
+[1.579s] creating /home/rosuser/ros2_ws/build/combined_launch/build
+[1.579s] creating /home/rosuser/ros2_ws/build/combined_launch/build/lib
+[1.579s] creating /home/rosuser/ros2_ws/build/combined_launch/build/lib/combined_launch
+[1.579s] copying combined_launch/__init__.py -> /home/rosuser/ros2_ws/build/combined_launch/build/lib/combined_launch
+[1.579s] running install
+[1.579s] running install_lib
+[1.580s] creating /home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages/combined_launch
+[1.580s] copying /home/rosuser/ros2_ws/build/combined_launch/build/lib/combined_launch/__init__.py -> /home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages/combined_launch
+[1.581s] byte-compiling /home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages/combined_launch/__init__.py to __init__.cpython-310.pyc
+[1.582s] running install_data
+[1.582s] creating /home/rosuser/ros2_ws/install/combined_launch/share/ament_index
+[1.582s] creating /home/rosuser/ros2_ws/install/combined_launch/share/ament_index/resource_index
+[1.582s] creating /home/rosuser/ros2_ws/install/combined_launch/share/ament_index/resource_index/packages
+[1.582s] copying resource/combined_launch -> /home/rosuser/ros2_ws/install/combined_launch/share/ament_index/resource_index/packages
+[1.582s] copying package.xml -> /home/rosuser/ros2_ws/install/combined_launch/share/combined_launch
+[1.582s] creating /home/rosuser/ros2_ws/install/combined_launch/share/combined_launch/launch
+[1.582s] copying launch/optitrack_bringup.launch.py -> /home/rosuser/ros2_ws/install/combined_launch/share/combined_launch/launch
+[1.583s] running install_egg_info
+[1.585s] Copying ../../build/combined_launch/combined_launch.egg-info to /home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages/combined_launch-0.0.0-py3.10.egg-info
+[1.586s] running install_scripts
+[1.617s] writing list of installed files to '/home/rosuser/ros2_ws/build/combined_launch/install.log'
+[1.647s] Invoked command in '/home/rosuser/ros2_ws/src/combined_launch' returned '0': PYTHONPATH=/home/rosuser/ros2_ws/build/combined_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/combined_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/combined_launch build --build-base /home/rosuser/ros2_ws/build/combined_launch/build install --record /home/rosuser/ros2_ws/build/combined_launch/install.log --single-version-externally-managed install_data

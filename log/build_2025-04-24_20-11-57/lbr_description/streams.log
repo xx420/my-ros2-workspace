@@ -1,0 +1,123 @@
+[0.053s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_description
+[0.990s] -- The C compiler identification is GNU 11.4.0
+[1.602s] -- The CXX compiler identification is GNU 11.4.0
+[1.704s] -- Detecting C compiler ABI info
+[1.896s] -- Detecting C compiler ABI info - done
+[1.910s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.911s] -- Detecting C compile features
+[1.932s] -- Detecting C compile features - done
+[1.939s] -- Detecting CXX compiler ABI info
+[2.176s] -- Detecting CXX compiler ABI info - done
+[2.186s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.187s] -- Detecting CXX compile features
+[2.187s] -- Detecting CXX compile features - done
+[2.326s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.369s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.582s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[6.610s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[13.611s] -- Configuring done
+[13.614s] -- Generating done
+[13.616s] -- Build files have been written to: /home/rosuser/ros2_ws/build/lbr_description
+[13.622s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_description
+[13.624s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_description -- -j4 -l4
+[13.671s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_description -- -j4 -l4
+[13.673s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_description
+[13.682s] -- Install configuration: ""
+[13.683s] -- Execute custom install script
+[13.684s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/gazebo/lbr_gazebo.xacro
+[13.695s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_0.stl
+[13.707s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_1.stl
+[13.718s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_2.stl
+[13.728s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_3.stl
+[13.737s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_4.stl
+[13.747s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_5.stl
+[13.759s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_6.stl
+[13.768s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/collision/link_7.stl
+[13.779s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_0.dae
+[13.796s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_1.dae
+[13.811s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_2.dae
+[13.817s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_3.dae
+[13.828s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_4.dae
+[13.837s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_5.dae
+[13.847s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_6.dae
+[13.857s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa14/visual/link_7.dae
+[13.867s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_0.stl
+[13.877s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_1.stl
+[13.896s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_2.stl
+[13.898s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_3.stl
+[13.910s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_4.stl
+[13.949s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_5.stl
+[13.959s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_6.stl
+[13.969s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/collision/link_7.stl
+[13.979s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_0.dae
+[13.990s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_1.dae
+[13.999s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_2.dae
+[14.009s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_3.dae
+[14.019s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_4.dae
+[14.029s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_5.dae
+[14.039s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_6.dae
+[14.050s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/iiwa7/visual/link_7.dae
+[14.061s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_0.stl
+[14.073s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_1.stl
+[14.084s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_2.stl
+[14.095s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_3.stl
+[14.105s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_4.stl
+[14.116s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_5.stl
+[14.126s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_6.stl
+[14.136s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/collision/link_7.stl
+[14.146s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_0.dae
+[14.157s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_1.dae
+[14.167s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_2.dae
+[14.177s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_3.dae
+[14.188s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_4.dae
+[14.198s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_5.dae
+[14.209s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_6.dae
+[14.219s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med14/visual/link_7.dae
+[14.230s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_0.stl
+[14.245s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_1.stl
+[14.251s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_2.stl
+[14.260s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_3.stl
+[14.270s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_4.stl
+[14.282s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_5.stl
+[14.293s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_6.stl
+[14.304s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/collision/link_7.stl
+[14.318s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_0.dae
+[14.329s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_1.dae
+[14.339s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_2.dae
+[14.352s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_3.dae
+[14.361s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_4.dae
+[14.377s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_5.dae
+[14.390s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_6.dae
+[14.401s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/meshes/med7/visual/link_7.dae
+[14.411s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_controllers.yaml
+[14.421s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_system_config.yaml
+[14.431s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/ros2_control/lbr_system_interface.xacro
+[14.442s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14.xacro
+[14.452s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/iiwa14_description.xacro
+[14.463s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa14/joint_limits.yaml
+[14.473s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7.xacro
+[14.486s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa7/iiwa7_description.xacro
+[14.494s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/iiwa7/joint_limits.yaml
+[14.504s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med14/joint_limits.yaml
+[14.517s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med14/med14.xacro
+[14.526s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med14/med14_description.xacro
+[14.535s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med7/joint_limits.yaml
+[14.546s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med7/med7.xacro
+[14.556s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/urdf/med7/med7_description.xacro
+[14.566s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/lbr_description.dsv
+[14.577s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/package_run_dependencies/lbr_description
+[14.587s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/parent_prefix_path/lbr_description
+[14.598s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/ament_prefix_path.sh
+[14.608s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/ament_prefix_path.dsv
+[14.618s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/path.sh
+[14.627s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/environment/path.dsv
+[14.638s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.bash
+[14.648s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.sh
+[14.658s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.zsh
+[14.669s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/local_setup.dsv
+[14.679s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/package.dsv
+[14.689s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/ament_index/resource_index/packages/lbr_description
+[14.701s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig.cmake
+[14.713s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/cmake/lbr_descriptionConfig-version.cmake
+[14.725s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_description/share/lbr_description/package.xml
+[14.740s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_description

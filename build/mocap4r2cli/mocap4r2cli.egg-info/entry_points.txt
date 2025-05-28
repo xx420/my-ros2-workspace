@@ -1,0 +1,11 @@
+[mocap4r2cli.verb]
+start = mocap4r2cli.verb.start:StartVerb
+status = mocap4r2cli.verb.status:StatusVerb
+stop = mocap4r2cli.verb.stop:StopVerb
+
+[ros2cli.command]
+mocap4r2 = mocap4r2cli.command.mocap4r2:Mocap4r2Command
+
+[ros2cli.extension_point]
+mocap4r2cli.verb = mocap4r2cli.verb:VerbExtension
+

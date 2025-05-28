@@ -1,0 +1,34 @@
+[0.048s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+[0.259s] [ 33%] Built target servo_controller_input
+[0.284s] [ 66%] Built target servo_node
+[0.314s] [100%] Built target pose_tracking_servo_node
+[0.346s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_moveit2 -- -j4 -l4
+[0.357s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2
+[0.779s] -- Install configuration: "Release"
+[0.780s] -- Execute custom install script
+[0.780s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/iiwa_moveit2/pose_tracking_servo_node
+[0.780s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/iiwa_moveit2/servo_node
+[0.781s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/library_path.sh
+[0.781s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/library_path.dsv
+[0.781s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/package_run_dependencies/iiwa_moveit2
+[0.782s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/parent_prefix_path/iiwa_moveit2
+[0.782s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/ament_prefix_path.sh
+[0.782s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/ament_prefix_path.dsv
+[0.782s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/path.sh
+[0.785s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/environment/path.dsv
+[0.786s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.bash
+[0.786s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.sh
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.zsh
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/local_setup.dsv
+[0.787s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/package.dsv
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/packages/iiwa_moveit2
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/ament_index/resource_index/rclcpp_components/iiwa_moveit2
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/ament_cmake_export_targets-extras.cmake
+[0.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.788s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/iiwa_moveit2Config.cmake
+[0.788s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/iiwa_moveit2Config-version.cmake
+[0.788s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/package.xml
+[0.788s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/lib/libservo_controller_input.so
+[0.788s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/export_iiwa_moveit2Export.cmake
+[0.788s] -- Up-to-date: /home/rosuser/ros2_ws/install/iiwa_moveit2/share/iiwa_moveit2/cmake/export_iiwa_moveit2Export-release.cmake
+[0.789s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_moveit2

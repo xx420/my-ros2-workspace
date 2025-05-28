@@ -1,0 +1,5 @@
+[0.158s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_moveit_cpp -- -j4 -l4
+[1.549s] gmake[2]: *** No rule to make target '/opt/ros/humble/lib/libmoveit_move_group_interface.so.2.5.8', needed by 'hello_moveit'.  Stop.
+[1.550s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/hello_moveit.dir/all] Error 2
+[1.550s] gmake: *** [Makefile:146: all] Error 2
+[1.553s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_moveit_cpp -- -j4 -l4

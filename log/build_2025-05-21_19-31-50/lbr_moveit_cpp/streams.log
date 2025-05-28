@@ -1,0 +1,24 @@
+[0.038s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_moveit_cpp -- -j4 -l4
+[0.141s] [  0%] Built target hello_moveit
+[0.183s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_moveit_cpp -- -j4 -l4
+[0.184s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_moveit_cpp
+[0.212s] -- Install configuration: "Release"
+[0.212s] -- Execute custom install script
+[0.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/launch/hello_moveit.launch.py
+[0.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/lib/lbr_moveit_cpp/hello_moveit
+[0.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/ament_index/resource_index/package_run_dependencies/lbr_moveit_cpp
+[0.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/ament_index/resource_index/parent_prefix_path/lbr_moveit_cpp
+[0.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/ament_prefix_path.sh
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/ament_prefix_path.dsv
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/path.sh
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/environment/path.dsv
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.bash
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.sh
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.zsh
+[0.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/local_setup.dsv
+[0.213s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/package.dsv
+[0.219s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/ament_index/resource_index/packages/lbr_moveit_cpp
+[0.219s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/cmake/lbr_moveit_cppConfig.cmake
+[0.219s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/cmake/lbr_moveit_cppConfig-version.cmake
+[0.219s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/lbr_moveit_cpp/share/lbr_moveit_cpp/package.xml
+[0.231s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_moveit_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_moveit_cpp

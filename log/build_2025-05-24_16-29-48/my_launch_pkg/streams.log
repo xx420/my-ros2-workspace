@@ -1,0 +1,25 @@
+[1.106s] Invoking command in '/home/rosuser/ros2_ws/build/my_launch_pkg': PYTHONPATH=/home/rosuser/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosuser/ros2_ws/build/my_launch_pkg/build --no-deps symlink_data
+[1.544s] running develop
+[1.829s] running egg_info
+[1.829s] creating my_launch_pkg.egg-info
+[1.830s] writing my_launch_pkg.egg-info/PKG-INFO
+[1.830s] writing dependency_links to my_launch_pkg.egg-info/dependency_links.txt
+[1.830s] writing entry points to my_launch_pkg.egg-info/entry_points.txt
+[1.830s] writing requirements to my_launch_pkg.egg-info/requires.txt
+[1.830s] writing top-level names to my_launch_pkg.egg-info/top_level.txt
+[1.830s] writing manifest file 'my_launch_pkg.egg-info/SOURCES.txt'
+[1.832s] reading manifest file 'my_launch_pkg.egg-info/SOURCES.txt'
+[1.833s] writing manifest file 'my_launch_pkg.egg-info/SOURCES.txt'
+[1.835s] running build_ext
+[1.836s] Creating /home/rosuser/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my-launch-pkg.egg-link (link to .)
+[1.837s] 
+[1.837s] Installed /home/rosuser/ros2_ws/build/my_launch_pkg
+[1.837s] running symlink_data
+[1.837s] creating /home/rosuser/ros2_ws/install/my_launch_pkg/share/ament_index
+[1.837s] creating /home/rosuser/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index
+[1.837s] creating /home/rosuser/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index/packages
+[1.837s] symbolically linking /home/rosuser/ros2_ws/build/my_launch_pkg/resource/my_launch_pkg -> /home/rosuser/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index/packages
+[1.837s] symbolically linking /home/rosuser/ros2_ws/build/my_launch_pkg/package.xml -> /home/rosuser/ros2_ws/install/my_launch_pkg/share/my_launch_pkg
+[1.838s] creating /home/rosuser/ros2_ws/install/my_launch_pkg/share/my_launch_pkg/launch
+[1.838s] symbolically linking /home/rosuser/ros2_ws/build/my_launch_pkg/launch/all_nodes_launch.py -> /home/rosuser/ros2_ws/install/my_launch_pkg/share/my_launch_pkg/launch
+[1.892s] Invoked command in '/home/rosuser/ros2_ws/build/my_launch_pkg' returned '0': PYTHONPATH=/home/rosuser/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rosuser/ros2_ws/build/my_launch_pkg/build --no-deps symlink_data

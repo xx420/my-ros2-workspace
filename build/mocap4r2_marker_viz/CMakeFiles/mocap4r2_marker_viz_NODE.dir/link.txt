@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmocap4r2_marker_viz_NODE.a CMakeFiles/mocap4r2_marker_viz_NODE.dir/src/mocap4r2_marker_viz_node.cpp.o
+/usr/bin/ranlib libmocap4r2_marker_viz_NODE.a

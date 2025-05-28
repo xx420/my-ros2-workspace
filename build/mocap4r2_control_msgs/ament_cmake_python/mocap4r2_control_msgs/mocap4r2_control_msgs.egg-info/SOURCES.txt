@@ -1,0 +1,9 @@
+setup.py
+mocap4r2_control_msgs/__init__.py
+mocap4r2_control_msgs.egg-info/PKG-INFO
+mocap4r2_control_msgs.egg-info/SOURCES.txt
+mocap4r2_control_msgs.egg-info/dependency_links.txt
+mocap4r2_control_msgs.egg-info/top_level.txt
+mocap4r2_control_msgs/msg/__init__.py
+mocap4r2_control_msgs/msg/_control.py
+mocap4r2_control_msgs/msg/_mocap_info.py

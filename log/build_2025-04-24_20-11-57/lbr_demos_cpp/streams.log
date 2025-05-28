@@ -1,0 +1,77 @@
+[0.028s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_demos_cpp
+[0.095s] -- The C compiler identification is GNU 11.4.0
+[0.164s] -- The CXX compiler identification is GNU 11.4.0
+[0.173s] -- Detecting C compiler ABI info
+[0.256s] -- Detecting C compiler ABI info - done
+[0.266s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.267s] -- Detecting C compile features
+[0.267s] -- Detecting C compile features - done
+[0.271s] -- Detecting CXX compiler ABI info
+[0.365s] -- Detecting CXX compiler ABI info - done
+[0.376s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.377s] -- Detecting CXX compile features
+[0.378s] -- Detecting CXX compile features - done
+[0.381s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.585s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.673s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.720s] -- Found control_msgs: 4.8.0 (/opt/ros/humble/share/control_msgs/cmake)
+[0.774s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.783s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.796s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.816s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.848s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.032s] -- Found lbr_fri_idl: 1.5.0 (/home/rosuser/ros2_ws/install/lbr_fri_idl/share/lbr_fri_idl/cmake)
+[1.049s] -- Found lbr_fri_ros2: 2.2.1 (/home/rosuser/ros2_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake)
+[1.076s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.078s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.142s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.146s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.262s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.302s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.358s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.379s] -- Looking for pthread.h
+[1.467s] -- Looking for pthread.h - found
+[1.468s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.560s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.561s] -- Found Threads: TRUE  
+[1.738s] -- Configuring done
+[1.769s] -- Generating done
+[1.789s] -- Build files have been written to: /home/rosuser/ros2_ws/build/lbr_demos_cpp
+[1.802s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/rosuser/ros2_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/lbr_demos_cpp
+[1.804s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_demos_cpp -- -j4 -l4
+[1.871s] [ 25%] [32mBuilding CXX object CMakeFiles/joint_sine_overlay.dir/src/joint_sine_overlay.cpp.o[0m
+[1.871s] [ 25%] [32mBuilding CXX object CMakeFiles/torque_sine_overlay.dir/src/torque_sine_overlay.cpp.o[0m
+[1.872s] [ 37%] [32mBuilding CXX object CMakeFiles/wrench_sine_overlay.dir/src/wrench_sine_overlay.cpp.o[0m
+[1.873s] [ 50%] [32mBuilding CXX object CMakeFiles/joint_trajectory_client.dir/src/joint_trajectory_client.cpp.o[0m
+[10.338s] [ 62%] [32m[1mLinking CXX executable joint_trajectory_client[0m
+[10.529s] [ 62%] Built target joint_trajectory_client
+[17.635s] [ 75%] [32m[1mLinking CXX executable joint_sine_overlay[0m
+[17.682s] [ 87%] [32m[1mLinking CXX executable wrench_sine_overlay[0m
+[17.872s] [ 87%] Built target joint_sine_overlay
+[17.921s] [ 87%] Built target wrench_sine_overlay
+[17.966s] [100%] [32m[1mLinking CXX executable torque_sine_overlay[0m
+[18.181s] [100%] Built target torque_sine_overlay
+[18.197s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/rosuser/ros2_ws/build/lbr_demos_cpp -- -j4 -l4
+[18.199s] Invoking command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_demos_cpp
+[18.209s] -- Install configuration: "Release"
+[18.210s] -- Execute custom install script
+[18.211s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/lib/lbr_demos_cpp/joint_sine_overlay
+[18.222s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/lib/lbr_demos_cpp/joint_trajectory_client
+[18.235s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/lib/lbr_demos_cpp/torque_sine_overlay
+[18.246s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/lib/lbr_demos_cpp/wrench_sine_overlay
+[18.258s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/ament_index/resource_index/package_run_dependencies/lbr_demos_cpp
+[18.269s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/ament_index/resource_index/parent_prefix_path/lbr_demos_cpp
+[18.282s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/environment/ament_prefix_path.sh
+[18.294s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/environment/ament_prefix_path.dsv
+[18.306s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/environment/path.sh
+[18.318s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/environment/path.dsv
+[18.330s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/local_setup.bash
+[18.342s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/local_setup.sh
+[18.354s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/local_setup.zsh
+[18.366s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/local_setup.dsv
+[18.378s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/package.dsv
+[18.390s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/ament_index/resource_index/packages/lbr_demos_cpp
+[18.402s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/cmake/lbr_demos_cppConfig.cmake
+[18.415s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/cmake/lbr_demos_cppConfig-version.cmake
+[18.428s] -- Symlinking: /home/rosuser/ros2_ws/install/lbr_demos_cpp/share/lbr_demos_cpp/package.xml
+[18.444s] Invoked command in '/home/rosuser/ros2_ws/build/lbr_demos_cpp' returned '0': AMENT_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rosuser/ros2_ws/install/lbr_bringup:/home/rosuser/ros2_ws/install/lbr_ros2_control:/home/rosuser/ros2_ws/install/lbr_fri_ros2:/home/rosuser/ros2_ws/install/lbr_fri_idl:/home/rosuser/ros2_ws/install/lbr_description:/home/rosuser/ros2_ws/install/fri_client_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/rosuser/ros2_ws/install/lbr_ros2_control/lib:/home/rosuser/ros2_ws/install/lbr_fri_ros2/lib:/home/rosuser/ros2_ws/install/lbr_fri_idl/lib:/home/rosuser/ros2_ws/install/fri_client_sdk/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/rosuser/ros2_ws/install/fri_client_sdk/lib/x86_64-linux-gnu/pkgconfig:/home/rosuser/ros2_ws/install/fri_client_sdk/lib/pkgconfig PYTHONPATH=/home/rosuser/ros2_ws/install/lbr_bringup/local/lib/python3.10/dist-packages:/home/rosuser/ros2_ws/install/lbr_fri_idl/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/rosuser/ros2_ws/build/lbr_demos_cpp

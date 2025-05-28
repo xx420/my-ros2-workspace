@@ -1,0 +1,4 @@
+source;share/mocap4r2_marker_viz_srvs/local_setup.bash
+source;share/mocap4r2_marker_viz_srvs/local_setup.dsv
+source;share/mocap4r2_marker_viz_srvs/local_setup.sh
+source;share/mocap4r2_marker_viz_srvs/local_setup.zsh

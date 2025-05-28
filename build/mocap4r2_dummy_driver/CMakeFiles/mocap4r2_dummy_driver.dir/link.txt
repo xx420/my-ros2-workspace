@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmocap4r2_dummy_driver.a CMakeFiles/mocap4r2_dummy_driver.dir/src/mocap4r2_dummy_driver/mocap4r2_dummy_driver.cpp.o
+/usr/bin/ranlib libmocap4r2_dummy_driver.a

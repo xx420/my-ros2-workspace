@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8a4c26065aab474e4b83.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mocap4r2_optitrack_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_optitrack_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_optitrack_driver-f94a5ace4b22e44343f2.json",
+					"name" : "mocap4r2_optitrack_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_optitrack_driver_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_optitrack_driver_main-b8abecc89d9e37aec44a.json",
+					"name" : "mocap4r2_optitrack_driver_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mocap4r2_optitrack_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mocap4r2_optitrack_driver_uninstall-f0c451eb34f6e5e28a48.json",
+					"name" : "mocap4r2_optitrack_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-d0be852008a5ec6da962.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/mocap4r2_optitrack_driver",
+		"source" : "/home/rosuser/ros2_ws/src/mocap4ros2_optitrack/mocap4r2_optitrack_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

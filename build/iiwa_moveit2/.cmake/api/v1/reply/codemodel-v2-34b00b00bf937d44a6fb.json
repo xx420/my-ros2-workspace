@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-67c94deeb13d50e67041.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "iiwa_moveit2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "iiwa_moveit2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iiwa_moveit2_uninstall-Release-82553d24788689809a92.json",
+					"name" : "iiwa_moveit2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pose_tracking_servo_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pose_tracking_servo_node-Release-f8fbfde66b95e5e6cafb.json",
+					"name" : "pose_tracking_servo_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "servo_controller_input::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-servo_controller_input-Release-94557a99a2228a57c008.json",
+					"name" : "servo_controller_input",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "servo_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-servo_node-Release-1551102f3e8f7b24865b.json",
+					"name" : "servo_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-8c4a065cd5850db3d0b3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rosuser/ros2_ws/build/iiwa_moveit2",
+		"source" : "/home/rosuser/ros2_ws/src/iiwa_ros2/iiwa_moveit2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

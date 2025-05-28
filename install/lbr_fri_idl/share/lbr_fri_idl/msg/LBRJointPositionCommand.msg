@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/lbr_fri_idl/msg/LBRJointPositionCommand.msg

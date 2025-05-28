@@ -1,0 +1,5 @@
+-I/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_control/rqt_mocap4r2_control
+-I/home/rosuser/ros2_ws/build/rqt_mocap4r2_control
+-o
+/home/rosuser/ros2_ws/build/rqt_mocap4r2_control/include/rqt_mocap4r2_control/moc_mocap4r2_control.cpp
+/home/rosuser/ros2_ws/src/mocap4r2/mocap4r2_control/rqt_mocap4r2_control/include/rqt_mocap4r2_control/mocap4r2_control.hpp

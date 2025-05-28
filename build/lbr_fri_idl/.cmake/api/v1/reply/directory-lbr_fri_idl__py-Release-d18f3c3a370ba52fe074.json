@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "lbr_fri_idl__py",
+		"source" : "/home/rosuser/ros2_ws/build/lbr_fri_idl/lbr_fri_idl__py"
+	}
+}

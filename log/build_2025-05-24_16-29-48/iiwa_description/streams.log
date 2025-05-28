@@ -1,0 +1,66 @@
+[0.197s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_description -- -j4 -l4
+[0.700s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/iiwa_description -- -j4 -l4
+[1.051s] Invoking command in '/home/rosuser/ros2_ws/build/iiwa_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_description
+[1.156s] -- Install configuration: ""
+[1.199s] -- Execute custom install script
+[1.207s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/urdf/iiwa.urdf.xacro
+[1.209s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/flex_fellow_h800/flex_fellow_h800.dae
+[1.209s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/flex_fellow_h800/flex_fellow_h800.stl
+[1.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/base_link.stl
+[1.212s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_1.stl
+[1.213s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_2.stl
+[1.214s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_3.stl
+[1.214s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_4.stl
+[1.215s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_5.stl
+[1.215s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_6.stl
+[1.216s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_7.stl
+[1.217s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/collision/link_7_2.stl
+[1.217s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/link_7_2.stl
+[1.218s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/base_link.dae
+[1.220s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_1.dae
+[1.221s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_2.dae
+[1.222s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_3.dae
+[1.222s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_4.dae
+[1.223s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_5.dae
+[1.223s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_6.dae
+[1.224s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_7.dae
+[1.224s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/meshes/lbr_iiwa_14_r820/visual/link_7_2.stl
+[1.225s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/gazebo/iiwa.gazebo.xacro
+[1.261s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/gazebo/worlds/empty.world
+[1.263s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/rviz/iiwa.rviz
+[1.264s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/rviz/moveit.rviz
+[1.265s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/rviz/servo_rviz_config.rviz
+[1.266s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/ros2_control/iiwa.r2c_hardware.xacro
+[1.266s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/ros2_control/iiwa.r2c_hw_ds.xacro
+[1.267s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/config/base_frame.yaml
+[1.268s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/config/iiwa.config.xacro
+[1.268s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/config/iiwa_controllers.yaml
+[1.268s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/config/initial_positions.yaml
+[1.269s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_cartesian_limits.yaml
+[1.279s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_joint_limits.yaml
+[1.281s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_moveit2_pose_tracking_config.yaml
+[1.281s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_moveit2_pose_tracking_settings.yaml
+[1.281s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_moveit2_servo_config.yaml
+[1.281s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/iiwa_moveit_controller_config.yaml
+[1.282s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/kinematics.yaml
+[1.282s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/ompl_planning.yaml
+[1.300s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/moveit2/planning_pipelines_config.yaml
+[1.301s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/srdf/iiwa.srdf.xacro
+[1.301s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/srdf/iiwa_macro.srdf.xacro
+[1.301s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/environment/iiwa_description.sh
+[1.302s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/ament_index/resource_index/package_run_dependencies/iiwa_description
+[1.303s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/ament_index/resource_index/parent_prefix_path/iiwa_description
+[1.304s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/environment/ament_prefix_path.sh
+[1.304s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/environment/ament_prefix_path.dsv
+[1.325s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/environment/path.sh
+[1.325s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/environment/path.dsv
+[1.327s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/local_setup.bash
+[1.327s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/local_setup.sh
+[1.329s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/local_setup.zsh
+[1.330s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/local_setup.dsv
+[1.330s] -- Symlinking: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/package.dsv
+[1.348s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/ament_index/resource_index/packages/iiwa_description
+[1.349s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/cmake/iiwa_descriptionConfig.cmake
+[1.349s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/cmake/iiwa_descriptionConfig-version.cmake
+[1.350s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/iiwa_description/share/iiwa_description/package.xml
+[1.353s] Invoked command in '/home/rosuser/ros2_ws/build/iiwa_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/iiwa_description

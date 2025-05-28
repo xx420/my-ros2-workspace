@@ -1,0 +1,8 @@
+setup.py
+mocap4r2_robot_gt_msgs/__init__.py
+mocap4r2_robot_gt_msgs.egg-info/PKG-INFO
+mocap4r2_robot_gt_msgs.egg-info/SOURCES.txt
+mocap4r2_robot_gt_msgs.egg-info/dependency_links.txt
+mocap4r2_robot_gt_msgs.egg-info/top_level.txt
+mocap4r2_robot_gt_msgs/srv/__init__.py
+mocap4r2_robot_gt_msgs/srv/_set_gt_origin.py

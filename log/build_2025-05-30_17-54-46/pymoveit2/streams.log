@@ -1,0 +1,71 @@
+[0.147s] Invoking command in '/home/rosuser/ros2_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/pymoveit2
+[0.927s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.551s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.927s] -- Configuring done
+[1.952s] -- Generating done
+[1.955s] -- Build files have been written to: /home/rosuser/ros2_ws/build/pymoveit2
+[1.969s] Invoked command in '/home/rosuser/ros2_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake /home/rosuser/ros2_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/rosuser/ros2_ws/install/pymoveit2
+[1.972s] Invoking command in '/home/rosuser/ros2_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/pymoveit2 -- -j4 -l4
+[2.118s] Built target ament_cmake_python_symlink_pymoveit2
+[2.627s] running egg_info
+[2.628s] writing pymoveit2.egg-info/PKG-INFO
+[2.628s] writing dependency_links to pymoveit2.egg-info/dependency_links.txt
+[2.628s] writing top-level names to pymoveit2.egg-info/top_level.txt
+[2.643s] reading manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[2.662s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[2.705s] Built target ament_cmake_python_build_pymoveit2_egg
+[2.722s] Invoked command in '/home/rosuser/ros2_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/build/pymoveit2 -- -j4 -l4
+[2.739s] Invoking command in '/home/rosuser/ros2_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/pymoveit2
+[2.752s] -- Install configuration: ""
+[2.752s] -- Execute custom install script
+[2.753s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.sh
+[2.753s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.dsv
+[2.753s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.0.0-py3.10.egg-info/PKG-INFO
+[2.754s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.0.0-py3.10.egg-info/SOURCES.txt
+[2.754s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.0.0-py3.10.egg-info/dependency_links.txt
+[2.754s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-4.0.0-py3.10.egg-info/top_level.txt
+[2.755s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py
+[2.755s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_command.py
+[2.756s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_interface.py
+[2.756s] -- Symlinking: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/move_to_pose.py
+[2.771s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py
+[2.771s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_gripper.py
+[2.771s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py
+[2.772s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py
+[2.772s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/crane_x7.py
+[2.773s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py
+[2.773s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/lbr.py
+[2.773s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/panda.py
+[2.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/phantomx_pincher.py
+[2.787s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur.py
+[2.788s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/utils.py
+[2.789s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_allow_collisions.py
+[2.789s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_clear_planning_scene.py
+[2.790s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_collision_mesh.py
+[2.790s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_collision_primitive.py
+[2.790s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_fk.py
+[2.790s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_gripper.py
+[2.791s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_ik.py
+[2.791s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_joint_goal.py
+[2.791s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_orientation_path_constraint.py
+[2.792s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_pose_goal.py
+[2.792s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/lib/pymoveit2/ex_servo.py
+[2.792s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/ament_index/resource_index/package_run_dependencies/pymoveit2
+[2.793s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/ament_index/resource_index/parent_prefix_path/pymoveit2
+[2.793s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.sh
+[2.793s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.dsv
+[2.794s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/path.sh
+[2.794s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/environment/path.dsv
+[2.795s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/local_setup.bash
+[2.795s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/local_setup.sh
+[2.796s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/local_setup.zsh
+[2.796s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/local_setup.dsv
+[2.796s] -- Symlinking: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/package.dsv
+[2.814s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/ament_index/resource_index/packages/pymoveit2
+[2.815s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config.cmake
+[2.815s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config-version.cmake
+[2.815s] -- Up-to-date symlink: /home/rosuser/ros2_ws/install/pymoveit2/share/pymoveit2/package.xml
+[2.907s] Listing '/home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2'...
+[2.907s] Compiling '/home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/move_to_pose.py'...
+[2.907s] Listing '/home/rosuser/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots'...
+[2.916s] Invoked command in '/home/rosuser/ros2_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ros2_ws/install/my_launch_pkg:/home/rosuser/ros2_ws/install/mocap4r2cli:/home/rosuser/ros2_ws/install/marker_pose_publisher_pkg:/home/rosuser/ros2_ws/install/marker_robot_follower:/home/rosuser/ros2_ws/install/marker_pose_follow:/home/rosuser/ros2_ws/install/marker_pose_bridge:/home/rosuser/ros2_ws/install/lbr_demos_py:/home/rosuser/ros2_ws/install/lbr_moveit:/home/rosuser/ros2_ws/install/lbr_demos_advanced_py:/home/rosuser/ros2_ws/install/combined_launch:/home/rosuser/test_ws/install/my_launch_pkg:/home/rosuser/test_ws/install/mocap4r2cli:/home/rosuser/test_ws/install/marker_pose_follow:/home/rosuser/test_ws/install/marker_pose_bridge:/home/rosuser/test_ws/install/lbr_demos_py:/home/rosuser/test_ws/install/lbr_moveit:/home/rosuser/test_ws/install/lbr_demos_advanced_py:/home/rosuser/mocap4r2_ws/install/mocap4r2cli:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/build/pymoveit2

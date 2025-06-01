@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/my_moveit_pose/my_moveit_pose.egg-info
+writing ../../build/my_moveit_pose/my_moveit_pose.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_moveit_pose/my_moveit_pose.egg-info/dependency_links.txt
+writing entry points to ../../build/my_moveit_pose/my_moveit_pose.egg-info/entry_points.txt
+writing requirements to ../../build/my_moveit_pose/my_moveit_pose.egg-info/requires.txt
+writing top-level names to ../../build/my_moveit_pose/my_moveit_pose.egg-info/top_level.txt
+writing manifest file '../../build/my_moveit_pose/my_moveit_pose.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_moveit_pose/my_moveit_pose.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_moveit_pose/my_moveit_pose.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rosuser/ros2_ws/build/my_moveit_pose/build
+creating /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib
+creating /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose
+copying my_moveit_pose/__init__.py -> /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose
+copying my_moveit_pose/move_to_pose.py -> /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose
+running install
+running install_lib
+creating /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose
+copying /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose/__init__.py -> /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose
+copying /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose/move_to_pose.py -> /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose
+byte-compiling /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose/move_to_pose.py to move_to_pose.cpython-310.pyc
+running install_data
+creating /home/rosuser/ros2_ws/install/my_moveit_pose/share/ament_index
+creating /home/rosuser/ros2_ws/install/my_moveit_pose/share/ament_index/resource_index
+creating /home/rosuser/ros2_ws/install/my_moveit_pose/share/ament_index/resource_index/packages
+copying resource/my_moveit_pose -> /home/rosuser/ros2_ws/install/my_moveit_pose/share/ament_index/resource_index/packages
+copying package.xml -> /home/rosuser/ros2_ws/install/my_moveit_pose/share/my_moveit_pose
+running install_egg_info
+Copying ../../build/my_moveit_pose/my_moveit_pose.egg-info to /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_to_pose script to /home/rosuser/ros2_ws/install/my_moveit_pose/lib/my_moveit_pose
+writing list of installed files to '/home/rosuser/ros2_ws/build/my_moveit_pose/install.log'

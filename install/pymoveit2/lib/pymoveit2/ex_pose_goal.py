@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/pymoveit2/examples/ex_pose_goal.py

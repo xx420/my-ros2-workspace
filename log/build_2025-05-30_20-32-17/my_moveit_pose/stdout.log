@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/my_moveit_pose/my_moveit_pose.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_moveit_pose/my_moveit_pose.egg-info/dependency_links.txt
+writing entry points to ../../build/my_moveit_pose/my_moveit_pose.egg-info/entry_points.txt
+writing requirements to ../../build/my_moveit_pose/my_moveit_pose.egg-info/requires.txt
+writing top-level names to ../../build/my_moveit_pose/my_moveit_pose.egg-info/top_level.txt
+reading manifest file '../../build/my_moveit_pose/my_moveit_pose.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_moveit_pose/my_moveit_pose.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_moveit_pose/track_motive_pose.py -> /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose
+running install
+running install_lib
+copying /home/rosuser/ros2_ws/build/my_moveit_pose/build/lib/my_moveit_pose/track_motive_pose.py -> /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose
+byte-compiling /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose/track_motive_pose.py to track_motive_pose.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/my_moveit_pose/my_moveit_pose.egg-info to /home/rosuser/ros2_ws/install/my_moveit_pose/lib/python3.10/site-packages/my_moveit_pose-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_to_pose script to /home/rosuser/ros2_ws/install/my_moveit_pose/lib/my_moveit_pose
+Installing track_motive_pose script to /home/rosuser/ros2_ws/install/my_moveit_pose/lib/my_moveit_pose
+writing list of installed files to '/home/rosuser/ros2_ws/build/my_moveit_pose/install.log'

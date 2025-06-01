@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/marker_robot_follower/marker_robot_follower.egg-info
+writing ../../build/marker_robot_follower/marker_robot_follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/marker_robot_follower/marker_robot_follower.egg-info/dependency_links.txt
+writing entry points to ../../build/marker_robot_follower/marker_robot_follower.egg-info/entry_points.txt
+writing requirements to ../../build/marker_robot_follower/marker_robot_follower.egg-info/requires.txt
+writing top-level names to ../../build/marker_robot_follower/marker_robot_follower.egg-info/top_level.txt
+writing manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+reading manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+writing manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rosuser/ros2_ws/build/marker_robot_follower/build
+creating /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib
+creating /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+copying marker_robot_follower/__init__.py -> /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+copying marker_robot_follower/marker_robot_follower.py -> /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+running install
+running install_lib
+creating /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+copying /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower/__init__.py -> /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+copying /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower/marker_robot_follower.py -> /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+byte-compiling /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower/marker_robot_follower.py to marker_robot_follower.cpython-310.pyc
+running install_data
+creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index
+creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index
+creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index/packages
+copying resource/marker_robot_follower -> /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index/packages
+copying package.xml -> /home/rosuser/ros2_ws/install/marker_robot_follower/share/marker_robot_follower
+running install_egg_info
+Copying ../../build/marker_robot_follower/marker_robot_follower.egg-info to /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower-0.0.0-py3.10.egg-info
+running install_scripts
+Installing marker_robot_follower script to /home/rosuser/ros2_ws/install/marker_robot_follower/lib/marker_robot_follower
+writing list of installed files to '/home/rosuser/ros2_ws/build/marker_robot_follower/install.log'

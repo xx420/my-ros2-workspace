@@ -1,0 +1,3 @@
+[console_scripts]
+marker_robot_follower = marker_robot_follower.marker_robot_follower:main
+

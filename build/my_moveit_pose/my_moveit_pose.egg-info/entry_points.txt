@@ -1,0 +1,4 @@
+[console_scripts]
+move_to_pose = my_moveit_pose.move_to_pose:main
+track_motive_pose = my_moveit_pose.track_motive_pose:main
+

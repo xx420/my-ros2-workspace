@@ -1,0 +1,37 @@
+[2.123s] Invoking command in '/home/rosuser/ros2_ws/src/marker_robot_follower': PYTHONPATH=/home/rosuser/ros2_ws/build/marker_robot_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/marker_robot_follower build --build-base /home/rosuser/ros2_ws/build/marker_robot_follower/build install --record /home/rosuser/ros2_ws/build/marker_robot_follower/install.log --single-version-externally-managed install_data
+[2.596s] running egg_info
+[2.597s] creating ../../build/marker_robot_follower/marker_robot_follower.egg-info
+[2.597s] writing ../../build/marker_robot_follower/marker_robot_follower.egg-info/PKG-INFO
+[2.597s] writing dependency_links to ../../build/marker_robot_follower/marker_robot_follower.egg-info/dependency_links.txt
+[2.598s] writing entry points to ../../build/marker_robot_follower/marker_robot_follower.egg-info/entry_points.txt
+[2.598s] writing requirements to ../../build/marker_robot_follower/marker_robot_follower.egg-info/requires.txt
+[2.598s] writing top-level names to ../../build/marker_robot_follower/marker_robot_follower.egg-info/top_level.txt
+[2.598s] writing manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+[2.600s] reading manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+[2.601s] writing manifest file '../../build/marker_robot_follower/marker_robot_follower.egg-info/SOURCES.txt'
+[2.601s] running build
+[2.601s] running build_py
+[2.601s] creating /home/rosuser/ros2_ws/build/marker_robot_follower/build
+[2.601s] creating /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib
+[2.602s] creating /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+[2.602s] copying marker_robot_follower/__init__.py -> /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+[2.602s] copying marker_robot_follower/marker_robot_follower.py -> /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower
+[2.602s] running install
+[2.602s] running install_lib
+[2.603s] creating /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+[2.603s] copying /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower/__init__.py -> /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+[2.603s] copying /home/rosuser/ros2_ws/build/marker_robot_follower/build/lib/marker_robot_follower/marker_robot_follower.py -> /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower
+[2.604s] byte-compiling /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower/__init__.py to __init__.cpython-310.pyc
+[2.605s] byte-compiling /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower/marker_robot_follower.py to marker_robot_follower.cpython-310.pyc
+[2.605s] running install_data
+[2.605s] creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index
+[2.605s] creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index
+[2.606s] creating /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index/packages
+[2.606s] copying resource/marker_robot_follower -> /home/rosuser/ros2_ws/install/marker_robot_follower/share/ament_index/resource_index/packages
+[2.606s] copying package.xml -> /home/rosuser/ros2_ws/install/marker_robot_follower/share/marker_robot_follower
+[2.606s] running install_egg_info
+[2.608s] Copying ../../build/marker_robot_follower/marker_robot_follower.egg-info to /home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages/marker_robot_follower-0.0.0-py3.10.egg-info
+[2.609s] running install_scripts
+[2.640s] Installing marker_robot_follower script to /home/rosuser/ros2_ws/install/marker_robot_follower/lib/marker_robot_follower
+[2.641s] writing list of installed files to '/home/rosuser/ros2_ws/build/marker_robot_follower/install.log'
+[2.670s] Invoked command in '/home/rosuser/ros2_ws/src/marker_robot_follower' returned '0': PYTHONPATH=/home/rosuser/ros2_ws/build/marker_robot_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ros2_ws/install/marker_robot_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/marker_robot_follower build --build-base /home/rosuser/ros2_ws/build/marker_robot_follower/build install --record /home/rosuser/ros2_ws/build/marker_robot_follower/install.log --single-version-externally-managed install_data
